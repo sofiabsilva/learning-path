@@ -8,3 +8,14 @@
 - HTML - [Mockup Article project](https://sofiabsilva.github.io/html-mockup-article/)
 - CSS - [Animal Trading Card](https://sofiabsilva.github.io/animal-trading-card/)
 - JavaScript & jQuery - [Pixel Art Maker](https://sofiabsilva.github.io/pixel-art-maker/)
+
+# March - April 2018
+- While with Udacity I had started taking lessons on the SoloLearn mobile app, a way to keep learning and revising material while away from the computer. I finished the courses "HTML Fundamentals" and "JavaScript" and did a few challenges. 
+
+- Even though I didn't get the full nanodegreee I kept doing their free courses to complement what I had learned.
+
+## Projects and Skills aquired
+- Responsive Web Design - [Brighton Times Responsive Web Page](https://sofiabsilva.github.io/responsive-design/)
+- Writing READMEs
+- Shell and Version Control Git basics
+- Started learning how to use GitHub
