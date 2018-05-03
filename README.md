@@ -17,5 +17,5 @@
   ## Projects and Skills aquired
    - Responsive Web Design - [Brighton Times Responsive Web Page](https://sofiabsilva.github.io/responsive-design/)
    - Writing READMEs
-   - Shell and Version Control Git basics
+   - Shell and Version Control with Git basics
    - Started learning how to use GitHub
