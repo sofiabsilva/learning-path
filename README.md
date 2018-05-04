@@ -23,5 +23,5 @@
 # April 2018 
    - Started the [FreeCodeCamp](https://www.freecodecamp.org/sofiabsilva) curriculum.
    - Learned to use Bootstrap - [Green Day Tribute Page](https://sofiabsilva.github.io/greenday-tribute-page/)
-   - Reviewed some previously learned concepts - [My responsive portfolio](https://sofiabsilva.github.io/portfolio/) 
+   - Reviewed some previously learned concepts - [My Responsive Portfolio](https://sofiabsilva.github.io/portfolio/) 
    - Started the Practical JavaScript course
