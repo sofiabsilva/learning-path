@@ -9,7 +9,7 @@
    - CSS - [Animal Trading Card](https://sofiabsilva.github.io/animal-trading-card/)
    - JavaScript & jQuery - [Pixel Art Maker](https://sofiabsilva.github.io/pixel-art-maker/)
 
-# March - April 2018
+# March 2018
 - While with Udacity I had started taking lessons on the SoloLearn mobile app, a way to keep learning and revising material while away from the computer. I finished the courses "HTML Fundamentals" and "JavaScript" and did a few challenges. 
 
 - Even though I didn't get the full nanodegreee I kept doing their free courses to complement what I had learned.
@@ -19,3 +19,9 @@
    - Writing READMEs
    - Shell and Version Control with Git basics
    - Started learning how to use GitHub
+
+# April 2018 
+   - Started the [FreeCodeCamp](https://www.freecodecamp.org/sofiabsilva) curriculum.
+   - Learned to use Bootstrap - [Green Day Tribute Page](https://sofiabsilva.github.io/greenday-tribute-page/)
+   - Reviewed some previously learned concepts - [My responsive portfolio](https://sofiabsilva.github.io/portfolio/) 
+   - Started the Practical JavaScript course
