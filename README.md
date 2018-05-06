@@ -30,4 +30,4 @@
        - Reviewed some previously learned concepts - [My Responsive Portfolio](https://sofiabsilva.github.io/portfolio/) 
   
 # Currently
-   - I've been logging on [this](https://github.com/sofiabsilva/100-days-of-code/blob/master/log.md) repo about what I've been doing each day for the #100DaysOfCodeChallenge
+   - I've been logging on [this](https://github.com/sofiabsilva/100-days-of-code/blob/master/log.md) repo about what I've been doing each day for the #100DaysOfCode.
