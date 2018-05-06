@@ -22,10 +22,12 @@
 
 # April 2018 
    - Started the [FreeCodeCamp](https://www.freecodecamp.org/sofiabsilva) curriculum.
-   - Learned to use Bootstrap - [Green Day Tribute Page](https://sofiabsilva.github.io/greenday-tribute-page/)
-   - Reviewed some previously learned concepts - [My Responsive Portfolio](https://sofiabsilva.github.io/portfolio/) 
    - Started the Practical JavaScript course
    - On the last day of April started the 100 Days of Code Challenge
    
+     ## Projects and Skills aquired
+       - Learned to use Bootstrap - [Green Day Tribute Page](https://sofiabsilva.github.io/greenday-tribute-page/)
+       - Reviewed some previously learned concepts - [My Responsive Portfolio](https://sofiabsilva.github.io/portfolio/) 
+  
 # Currently
    - I've been logging on [this](https://github.com/sofiabsilva/100-days-of-code/blob/master/log.md) repo about what I've been doing each day for the #100DaysOfCodeChallenge
