@@ -31,3 +31,7 @@
   
 # Currently
    - I've been logging on [this](https://github.com/sofiabsilva/100-days-of-code/blob/master/log.md) repo about what I've been doing each day for the #100DaysOfCode.
+   - I'm also continuing to deepen my JavaScript knowledge by continuing the [Practical Javascript Course](https://watchandcode.com/p/practical-javascript), by Watch and Code and also continuing with the FreeCodeCamp curriculum.
+   
+# Next Steps
+   - Finishing the current JavaScript lessons and start working on the FreeCodeCamp algorithm challenges and JS projects. Exciting times!
