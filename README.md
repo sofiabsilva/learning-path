@@ -30,7 +30,7 @@
        - Reviewed some previously learned concepts - [My Responsive Portfolio](https://sofiabsilva.github.io/portfolio/) 
   
 # Currently
-   - I've been logging on [this](https://github.com/sofiabsilva/100-days-of-code/blob/master/log.md) repo about what I've been doing each day for the #100DaysOfCode.
+   - I've been logging on [this](https://github.com/sofiabsilva/100-days-of-code/blob/master/log.md) repo about what I've been doing each day for the #100DaysOfCode, I'm also [tweeting](https://twitter.com/TubbieHead) about my thoughts and progress with the challenge hashtag. 
    - I'm also deepening my JavaScript knowledge by continuing the [Practical Javascript Course](https://watchandcode.com/p/practical-javascript), by Watch and Code and also with the FreeCodeCamp Basic Javascript lessons.
    
 # Next Steps
