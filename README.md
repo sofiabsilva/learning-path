@@ -29,10 +29,15 @@
        - Learned to use Bootstrap - [Green Day Tribute Page](https://sofiabsilva.github.io/greenday-tribute-page/)
        - Reviewed some previously learned concepts - [My Responsive Portfolio](https://sofiabsilva.github.io/portfolio/) 
   
+# May 2018
+
+   - Finished the [Practical Javascript Course](https://watchandcode.com/p/practical-javascript) 
+   - Finished FreeCodeCamp Basic Javascript lessons (this was for reviewing previously learned concepts).
+   - Made a "Mad Libs - Harry Potter edition" simple web app just for fun and getting more practice with JS.
+   
 # Currently
    - I've been logging on [this](https://github.com/sofiabsilva/100-days-of-code/blob/master/log.md) repo about what I've been doing each day for the #100DaysOfCode, I'm also [tweeting](https://twitter.com/TubbieHead) about my thoughts and progress with the challenge hashtag. 
-   - I'm deepening my JavaScript knowledge by continuing the [Practical Javascript Course](https://watchandcode.com/p/practical-javascript), by Watch and Code and also with the FreeCodeCamp Basic Javascript lessons.
-   - Made a "Mad Libs - Harry Potter edition" simple web app just for fun and getting more practice.
-   
+
 # Next Steps
-   - Finish the current JavaScript lessons I'm doing and start working on the FreeCodeCamp algorithm challenges and JS projects. Exciting times!
+   - Create a custom wordpress theme for my website - and it's content (to display my artwork).
+   - Start working on the FreeCodeCamp algorithm challenges and JS projects. Exciting times!
