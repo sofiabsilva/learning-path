@@ -33,7 +33,7 @@
 
    - Finished the [Practical Javascript Course](https://watchandcode.com/p/practical-javascript) 
    - Finished FreeCodeCamp Basic Javascript lessons (this was for reviewing previously learned concepts).
-   - Made a "Mad Libs - Harry Potter edition" simple web app just for fun and getting more practice with JS.
+   - Made a ["Mad Libs - Harry Potter edition"](https://github.com/sofiabsilva/mad-libs-harry-potter) simple web app just for fun and getting more practice with JS.
    
 # Currently
    - I've been logging on [this](https://github.com/sofiabsilva/100-days-of-code/blob/master/log.md) repo about what I've been doing each day for the #100DaysOfCode, I'm also [tweeting](https://twitter.com/TubbieHead) about my thoughts and progress with the challenge hashtag. 
