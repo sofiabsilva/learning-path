@@ -37,6 +37,7 @@
    
 # Currently
    - I've been logging on [this](https://github.com/sofiabsilva/100-days-of-code/blob/master/log.md) repo about what I've been doing each day for the #100DaysOfCode, I'm also [tweeting](https://twitter.com/TubbieHead) about my thoughts and progress with the challenge hashtag. 
+   - Working on builing my art gallery website.
 
 # Next Steps
    - Create a custom wordpress theme for my website - and it's content (to display my artwork).
