@@ -40,5 +40,7 @@
    - Working on builing my art gallery website.
 
 # Next Steps
-   - Create a custom wordpress theme for my website - and it's content (to display my artwork).
+   - Have my first custom wordpress theme working 
    - Start working on the FreeCodeCamp algorithm challenges and JS projects. Exciting times!
+   - Take more advanced Udacity JS courses
+   - Do the Javascript 30 course/challenge
