@@ -38,9 +38,11 @@
 # Currently
    - I've been logging on [this](https://github.com/sofiabsilva/100-days-of-code/blob/master/log.md) repo about what I've been doing each day for the #100DaysOfCode, I'm also [tweeting](https://twitter.com/TubbieHead) about my thoughts and progress with the challenge hashtag. 
    - Working on builing my art gallery website.
-
+   - Doing the newly added FreeCodeCamp Applied Visual Design and Applied Accessibility lessons to then get the Responsive Web Design Certification.
+   
 # Next Steps
-   - Have my first custom wordpress theme working 
+   - Make my website live and market it
    - Start working on the FreeCodeCamp algorithm challenges and JS projects. Exciting times!
    - Take more advanced Udacity JS courses
+   - Learn ES6 
    - Do the Javascript 30 course/challenge
