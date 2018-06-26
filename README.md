@@ -21,7 +21,7 @@
    - Started learning how to use GitHub
 
 # April 2018 
-   - Started the [FreeCodeCamp](https://www.freecodecamp.org/sofiabsilva) curriculum.
+   - Started the [FreeCodeCamp](https://www.freecodecamp.org/sofiabsilva) curriculum
    - Started the Practical JavaScript course
    - On the last day of April started the 100 Days of Code Challenge
    
