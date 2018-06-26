@@ -34,14 +34,20 @@
    - Finished the [Practical Javascript Course](https://watchandcode.com/p/practical-javascript) 
    - Finished FreeCodeCamp Basic Javascript lessons (this was for reviewing previously learned concepts).
    - Made a ["Mad Libs - Harry Potter edition"](https://github.com/sofiabsilva/mad-libs-harry-potter) simple web app just for fun and getting more practice with JS.
+
+# June 2018
+   - Started working on my [Tubbie Arts Website](https://github.com/sofiabsilva/tubbie-arts-website), it's pretty much complete just need to make it live and test it.
+   - Completed the FreeCodeCamp Applied Visual Design and Applied Accessibility lessons (very useful stuff).
+   - Completed FreeCodeCamp Responsive Web Design Projects:
+      - [Survey Form](https://sofiabsilva.github.io/Survey-FCC/); 
+      - ["Product Landing Page"](https://sofiabsilva.github.io/product-landing-page-FCC/);
    
 # Currently
    - I've been logging on [this](https://github.com/sofiabsilva/100-days-of-code/blob/master/log.md) repo about what I've been doing each day for the #100DaysOfCode, I'm also [tweeting](https://twitter.com/TubbieHead) about my thoughts and progress with the challenge hashtag. 
-   - Working on builing my art gallery website.
-   - Doing the newly added FreeCodeCamp Applied Visual Design and Applied Accessibility lessons to then get the Responsive Web Design Certification.
+   - Finishing and tweaking the projects to get the Responsive Web Design Certification.
    
 # Next Steps
-   - Make my website live and market it
+   - Make the Tubbie Arts website live and market it
    - Start working on the FreeCodeCamp algorithm challenges and JS projects. Exciting times!
    - Take more advanced Udacity JS courses
    - Learn ES6 
