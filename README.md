@@ -46,7 +46,7 @@
 # Currently
    - I've been logging on [this](https://github.com/sofiabsilva/100-days-of-code/blob/master/log.md) repo about what I've been doing each day for the #100DaysOfCode, I'm also [tweeting](https://twitter.com/TubbieHead) about my thoughts and progress with the challenge hashtag. 
    - Learning ES6
-   - Doing the #JavaScript30 course, my goal is 1 project a day.
+   - Doing the [#JavaScript30](https://javascript30.com/) course/challenge, my goal is to do a project each day.
    
 # Next Steps
    - Make the Tubbie Arts website live and market it
