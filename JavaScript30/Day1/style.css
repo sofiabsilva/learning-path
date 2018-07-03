@@ -1,6 +1,6 @@
 html {
   font-size: 10px;
-  background: url(http://i.imgur.com/b9r5sEL.jpg) bottom center;
+  background: url(https://cdn.pixabay.com/photo/2017/03/27/12/35/drums-2178425_960_720.jpg) bottom center;
   background-size: cover;
 }
 body,html {
@@ -27,14 +27,14 @@ body,html {
   width: 10rem;
   text-align: center;
   color: white;
-  background: rgba(0,0,0,0.4);
+  background: rgba(83, 62, 56, 0.46);
   text-shadow: 0 0 .5rem black;
 }
 
 .playing {
   transform: scale(1.1);
-  border-color: #ffc600;
-  box-shadow: 0 0 1rem #ffc600;
+  border-color: #2a3199;
+  box-shadow: 0 0 1rem #2a3199;
 }
 
 kbd {
@@ -46,5 +46,11 @@ kbd {
   font-size: 1.2rem;
   text-transform: uppercase;
   letter-spacing: .1rem;
-  color: #ffc600;
+  color: #cacaca;
+}
+@media screen and (max-width: 1250px) {
+  .key {
+    width: 8rem;
+  }
+  max-height: 10vh;
 }
