@@ -46,9 +46,9 @@
 # Currently
    - I've been logging on [this](https://github.com/sofiabsilva/100-days-of-code/blob/master/log.md) repo about what I've been doing each day for the #100DaysOfCode, I'm also [tweeting](https://twitter.com/TubbieHead) about my thoughts and progress with the challenge hashtag. 
    - Learning ES6
+   - Doing the #JavaScript30 course, my goal is 1 project a day.
    
 # Next Steps
    - Make the Tubbie Arts website live and market it
-   - Start working on the FreeCodeCamp algorithm challenges and JS projects. Exciting times!
    - Take more advanced Udacity JS courses
-   - Do the Javascript 30 course/challenge
+   - Start working on the FreeCodeCamp algorithm challenges and JS projects. Exciting times!
