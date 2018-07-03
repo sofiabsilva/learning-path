@@ -62,7 +62,7 @@ function playsound(e) {
   const audio = document.querySelector(`audio[data-key="${e.keyCode}"]`);
   const key = document.querySelector(`.key[data-key="${e.keyCode}"]`);
   if (!audio) {
-    return; //if no audio exists stop the function from
+    return; //if no audio exists stop the function from running
   }
   audio.currentTime=0; //rewind to the start, so you can start playing the sound even before it finishes playing completely
   audio.play();
