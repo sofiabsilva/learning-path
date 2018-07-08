@@ -14,13 +14,7 @@
       </div>
     </div>
   <script>
-//TODO:
-// - understand how clock was made with CSS, add animation of clock ticking.
-// - place the initial position to (0, 90deg) done.
-// - get current date time on JS and use it to set the current angles of each arm
-// - make variable which has the converted degrees for each of the clock hands (seconds, minutes, hours)
-//
-const hand = document.querySelector(".hand");
+const hands = document.querySelectorAll(".hand");
 const secondHand= document.querySelector(".second-hand");
 const minHand = document.querySelector(".min-hand");
 const hourHand = document.querySelector(".hour-hand");
@@ -30,28 +24,18 @@ function setDate() {
   const second = time.getSeconds();
   const secondsDegrees = ((second * 360) / 60);
   secondHand.style.transform = `rotate(${secondsDegrees}deg)`;
-
   const minute = time.getMinutes();
   const minutesDegrees = ((minute * 360) / 60);
   minHand.style.transform = `rotate(${minutesDegrees}deg)`;
   const hour = time.getHours();
   const hoursDegrees = ((hour * 360) / 12);
   hourHand.style.transform = `rotate(${hoursDegrees}deg)`;
-
+  
   if(second == 0){
- secondHand.style.transitionDuration = '0s';
- minHand.style.transitionDuration = '0s';
- hourHand.style.transitionDuration = '0s';
+    hands.forEach((hand) => hand.style.transition = 'none')
 } else {
- secondHand.style.transitionDuration = '0.05s';
- minHand.style.transitionDuration = '0.05s';
- hourHand.style.transitionDuration = '0.05s';﻿
-}
-  // if (second === 0) {
-  //   hand.style.transition = `all 0`;
-  // } else {
-  //   hand.style.transition = `all 0.5s`;
-  // }
+  hands.forEach((hand) => hand.style.transition = '')
+  }
 }
 setInterval(setDate, 1000);
   </script>
