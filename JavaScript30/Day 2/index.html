@@ -30,12 +30,19 @@ function setDate() {
   const hour = time.getHours();
   const hoursDegrees = ((hour * 360) / 12);
   hourHand.style.transform = `rotate(${hoursDegrees}deg)`;
-  
+
   if(second == 0){
     hands.forEach((hand) => hand.style.transition = 'none')
 } else {
   hands.forEach((hand) => hand.style.transition = '')
   }
+  //change background depending on the hour of the day
+    if (hour >= 6 && hour <= 20 ) {
+      document.body.style.background = 'url("https://images.unsplash.com/photo-1498354136128-58f790194fa7?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=8d66d0f68c7412e69612414926dbbe97&auto=format&fit=crop&w=1500&q=80")';
+      document.body.style.transition = '0.5s';
+    } else {
+      document.body.style.background = 'url("https://images.unsplash.com/photo-1502053877922-431b5e61e449?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=9409b6d0d66c78d3764780e975f7f88b&auto=format&fit=crop&w=1500&q=80")';
+    }
 }
 setInterval(setDate, 1000);
   </script>
