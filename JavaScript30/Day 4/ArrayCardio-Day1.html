@@ -50,28 +50,40 @@
 
 // The map() method, takes un an array, does something with it and returns a new array of the same lenght.
     const fullNames = inventors.map(inventor =>`${inventor.first} ${inventor.last}`)
-    console.log(fullNames);
+    console.table(fullNames);
 
     // Array.prototype.sort()
     // 3. Sort the inventors by birthdate, oldest to youngest
 
     // const orderedBirthdays = inventors.sort(function(inventor1, inventor2) {
     //   if (inventor1.year > inventor2.year) {
-    //     return 1;
+    //     return 1; // inventor goes towards the end of the array
     //   } else {
-    //     return -1;
+    //     return -1; // inventor goest towards the start of the array
     //   }
     // })
     // console.log(orderedBirthdays);
 
     // With ternary operator:
   const orderedBirthdays = inventors.sort((inventor1, inventor2) => (inventor1.year > inventor2.year ? 1 : -1));
-console.log(orderedBirthdays);
+console.table(orderedBirthdays);
 
     // Array.prototype.reduce()
     // 4. How many years did all the inventors live?
 
+    //The reduce() method applies a function against an accumulator and each element in the array (from left to right) to reduce it to a single value.
+
+  const livedYears = inventors.reduce((total, inventor) => {return total + (inventor.passed - inventor.year)},0);
+  console.log(livedYears);
+
     // 5. Sort the inventors by years lived
+
+    const oldestToYoungest = inventors.sort(function(inventor1, inventor2) {
+      const inventor1years = inventor1.passed - inventor1.year;
+      const inventor2years = inventor2.passed - inventor2.year;
+      return inventor1years > inventor2years ? -1 : 1;
+    })
+      console.table(oldestToYoungest);
 
     // 6. create a list of Boulevards in Paris that contain 'de' anywhere in the name
     // https://en.wikipedia.org/wiki/Category:Boulevards_in_Paris
