@@ -8,49 +8,92 @@
   <h2>Update CSS Variables with <span class='hl'>JS</span></h2>
 
   <div class="controls">
+    <label for="base">Base Color:</label>
+    <input id="base" type="color" name="base" value="#8bc34a">
+
     <label for="spacing">Spacing:</label>
-    <input id="spacing" type="range" name="spacing" min="10" max="200" value="10" data-sizing="px">
+    <input id="spacing" type="range" name="spacing" min="0" max="200" value="10" data-sizing="px">
+
+    <label for="border-radius">Border Radius:</label>
+    <input id="border-radius" type="range" name="border-radius" min="0" max="500" value="0" data-sizing="px">
 
     <label for="blur">Blur:</label>
-    <input id="blur" type="range" name="blur" min="0" max="25" value="10" data-sizing="px">
-
-    <label for="base">Base Color:</label>
-    <input id="base" type="color" name="base" value="#ffc600">
+    <input id="blur" type="range" name="blur" min="0" max="25" value="5" data-sizing="px">
   </div>
 
-  <img src="https://source.unsplash.com/7bwQXzbF6KE/800x500">
+  <img src="https://s15.postimg.cc/tq29gkfl7/jungle-1807476_1920.jpg">
 
   <style>
   /* set default values on the CSS variables */
     :root {
-      --base: #ffc600;
+      --base: #8bc34a;
       --spacing: 10px;
-      --blur: 10px;
+      --blur: 5px;
+      --border-radius: 0%;
     }
     img {
       padding: var(--spacing);
       background: var(--base);
       filter: blur(var(--blur));
+      border-radius: var(--border-radius);
+    }
+    .hl {
+      color: var(--base);
+      text-shadow: 2px;
     }
     /*
       misc styles, nothing to do with CSS variables
     */
 
     body {
-      text-align: center;
-      background: #193549;
-      color: white;
-      font-family: 'helvetica neue', sans-serif;
-      font-weight: 100;
-      font-size: 50px;
+          text-align: center;
+          background: #fff;
+          color: #5a5a5a;
+          font-family: 'helvetica neue', sans-serif;
+          font-weight: 100;
+          font-size: 40px;
+        }
+    img {
+      max-width: 700px;
     }
-
     .controls {
       margin-bottom: 50px;
     }
-
     input {
+      border-radius: 5px;
+    }
+    input[type="range"] {
       width:100px;
+      -webkit-appearance: none;
+      height: 15px;
+      border-radius: 5px;
+      background: #d3d3d3;
+      outline: none;
+      opacity: 0.7;
+      -webkit-transition: .2s;
+      transition: opacity .2s;
+    }
+    input:hover {
+      opacity: 1;
+    }
+    input::-webkit-slider-thumb {
+      -webkit-appearance: none;
+      appearance: none;
+      width: 24px;
+      height: 24px;
+      border-radius: 50%;
+      background: var(--base);
+      cursor: pointer;
+  }
+  input::-moz-range-thumb {
+      width: 24px;
+      height: 24px;
+      border-radius: 50%;
+      background: var(--base);
+      cursor: pointer;
+    }
+    label {
+      font-size: 26px;
     }
   </style>
 
