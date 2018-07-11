@@ -2,10 +2,11 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Scoped CSS Variables and JS</title>
 </head>
 <body>
-  <h2>Update CSS Variables with <span class='hl'>JS</span></h2>
+  <h1>Update CSS Variables with <span class='hl'>JS</span></h1>
 
   <div class="controls">
     <label for="base">Base Color:</label>
@@ -51,16 +52,19 @@
           color: #5a5a5a;
           font-family: 'helvetica neue', sans-serif;
           font-weight: 100;
-          font-size: 40px;
+          font-size: 3vw;
         }
     img {
-      max-width: 700px;
+      width: 700px;
+      max-width: calc(100% - var(--spacing)*2);
+      height: auto;
     }
     .controls {
       margin-bottom: 50px;
     }
     input {
-      border-radius: 5px;
+    border-radius: 5px;
+    cursor: pointer;
     }
     input[type="range"] {
       width:100px;
@@ -83,7 +87,6 @@
       height: 24px;
       border-radius: 50%;
       background: var(--base);
-      cursor: pointer;
   }
   input::-moz-range-thumb {
       width: 24px;
@@ -93,7 +96,24 @@
       cursor: pointer;
     }
     label {
-      font-size: 26px;
+      font-size: 2vw;
+    }
+    @media screen and (max-width: 680px) {
+
+      h1 {
+        font-size: 2em;
+      }
+      input {
+        display: block;
+        margin: auto;
+        margin-bottom: 16px;
+        margin-top: 16px;
+        line-height: 1em;
+      }
+      label {
+        font-size: 1.2em;
+        padding: 20px;
+      }
     }
   </style>
 
