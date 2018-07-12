@@ -73,7 +73,7 @@ console.table(orderedBirthdays);
 
     //The reduce() method applies a function against an accumulator and each element in the array (from left to right) to reduce it to a single value.
 
-  const livedYears = inventors.reduce((total, inventor) => {return total + (inventor.passed - inventor.year)},0);
+  const livedYears = inventors.reduce((total, inventor) => {return total + (inventor.passed - inventor.year)},0); // '0' is the initial value, used as the first argument to the first call of the callback. If no initial value is supplied, the first element in the array will be used. Calling reduce() on an empty array without an initial value is an error.
   console.log(livedYears);
 
     // 5. Sort the inventors by years lived
@@ -122,6 +122,14 @@ console.table(orderedBirthdays);
     // Sum up the instances of each of these
     const data = ['car', 'car', 'truck', 'truck', 'bike', 'walk', 'car', 'van', 'bike', 'walk', 'car', 'van', 'car', 'truck' ];
 
+    const transportation = data.reduce(function(obj, item) {
+      if (!obj[item]) {
+        obj[item] = 0;
+      }
+        obj[item]++
+        return obj;
+    }, {})
+    console.log(transportation);
   </script>
 </body>
 </html>
