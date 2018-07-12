@@ -88,10 +88,36 @@ console.table(orderedBirthdays);
     // 6. create a list of Boulevards in Paris that contain 'de' anywhere in the name
     // https://en.wikipedia.org/wiki/Category:Boulevards_in_Paris
 
+    //ATTENTION: This one has to be done on the console with the wiki page open
+
+
+    /* const category = document.querySelector(".mw-category"); //selects the container with the lists
+    const boulevards = Array.from(category.querySelectorAll("a")); // transforming the nodeList into an array to be able to use map()
+
+    const de = boulevards
+    .map((link) => link.textContent) // to transform each of the a links in the array to text;
+    .filter((boulevard) => boulevard.includes('de')) */
 
     // 7. sort Exercise
     // Sort the people alphabetically by last name
 
+      // my way:
+      // const alpha = people.sort(function(personA, personB) {
+      //
+      //   if (personA > personB) {
+      //     return 1;
+      //   }else {
+      //     return -1;
+      //   }
+      // })
+
+      const alpha = people.sort((personA, personB) => {
+        const [aLast, aFirst] = personA.split(', ');
+        const [bLast, bFirst] = personB.split(', ');
+        return aLast > bLast ? 1: -1;
+      })
+
+    console.log(alpha);
     // 8. Reduce Exercise
     // Sum up the instances of each of these
     const data = ['car', 'car', 'truck', 'truck', 'bike', 'walk', 'car', 'van', 'bike', 'walk', 'car', 'van', 'car', 'truck' ];
