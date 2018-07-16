@@ -52,6 +52,7 @@
       - [Keyboard Drum Kit](https://codepen.io/Tubbie/full/vrMGRK)
       - [CSS & JS Clock](https://codepen.io/Tubbie/full/ZRgXXK)
       - [Playing with sliders/CSS Variables](https://codepen.io/Tubbie/full/djPWVz)
+      - [Flexbox and JS Gallery](https://codepen.io/Tubbie/full/WKrpPR)
 
 # Next Steps
    - Make the Tubbie Arts website live and market it
