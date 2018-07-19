@@ -46,14 +46,16 @@
 # Currently
    - I've been logging on [this](https://github.com/sofiabsilva/100-days-of-code/blob/master/log.md) repo about what I've been doing each day for the #100DaysOfCode, I'm also [tweeting](https://twitter.com/TubbieHead) about my thoughts and progress with the challenge hashtag. 
    - Learning ES6
-   - Doing the [#JavaScript30](https://javascript30.com/) course/challenge, my goal is to do a project each day (clearly not realistic) but apply my own styles and try new things with CSS.
+   - Doing the [#JavaScript30](https://javascript30.com/) course/challenge, my goal is to do a project each day (clearly not realistic) but also apply my own styles and try new things with CSS as well.
    
-       ## Projects 
+       ## Projects and Skills aquired
       - [Keyboard Drum Kit](https://codepen.io/Tubbie/full/vrMGRK)
       - [CSS & JS Clock](https://codepen.io/Tubbie/full/ZRgXXK)
       - [Playing with sliders/CSS Variables](https://codepen.io/Tubbie/full/djPWVz)
       - [Flexbox and JS Gallery](https://codepen.io/Tubbie/full/WKrpPR)
-
+      - With "Array cardio" learned how to use array methods like filter(), map(), reduce() etc. 
+      - Took "Asynchronous JavaScript Requests" course on Udacity. 
+      
 # Next Steps
    - Make the Tubbie Arts website live and market it
    - Take more advanced Udacity JS courses
