@@ -14,34 +14,34 @@
       <li>or a state</li>
     </ul>
   </form>
-  <script>
-  const endpoint = 'https://gist.githubusercontent.com/Miserlou/c5cd8364bf9b2420bb29/raw/2bf258763cdddd704f8ffd3ea9a3e81d25e2c6f6/cities.json';
+<script>
+const endpoint = 'https://gist.githubusercontent.com/Miserlou/c5cd8364bf9b2420bb29/raw/2bf258763cdddd704f8ffd3ea9a3e81d25e2c6f6/cities.json';
 
-  const cities = []; // array to put cities into
-  fetch(endpoint)
-  .then(blob => blob.json())
-  .then(data => cities.push(...data)) // fetch() to get the data from endpoint's url (json file) and it returns a promise. then() returns a blob of info... It doesn't know what kind of data is in there. calling json() returns another promise which we call .then() again
+const cities = []; // array to put cities into
+fetch(endpoint)
+.then(response => response.json())
+.then(data => cities.push(...data)) // fetch() to get the data from endpoint's url (json file) and it returns a promise. then() returns a blob of info (the response)... It doesn't know what kind of data is in there. calling json() returns another promise which we call .then() again
 
-  // you could do .then(data => cities = data) if const was let instead.
+// you could do .then(data => cities = data) if const was let instead.
 
 
-  // creating function to get the massive array and filter it down to a subset that you can then listen for.
-  function findMatches(wordToMatch, cities) {
-    return cities.filter(place => {
-      //here we need to figure out if the city or state matches what was searched
-      const regex = new RegExp(wordToMatch, 'gi');
-      //gi means global and insensitive. RegExp needs to be written like this, with captial R.
-      return place.city.match(regex) || place.state.match(regex);
-    });
-  }
-  function displayMatches() {
-    const matchArray = findMatches(this.value, cities);
-    console.log(matchArray)
-  }
-  const searchInput = document.querySelector('.search');
-  const suggestionsInput = document.querySelector('.suggestions');
-  searchInput.addEventListener('change', displayMatches);
-  searchInput.addEventListener('keyup', displayMatches)
-  </script>
+// creating function to get the massive array and filter it down to a subset that you can then listen for.
+function findMatches(wordToMatch, cities) {
+  return cities.filter(place => {
+    //here we need to figure out if the city or state matches what was searched
+    const regex = new RegExp(wordToMatch, 'gi');
+    //gi means global and insensitive. RegExp needs to be written like this, with captial R.
+    return place.city.match(regex) || place.state.match(regex);
+  });
+}
+function displayMatches() {
+  const matchArray = findMatches(this.value, cities);
+  console.log(matchArray)
+}
+const searchInput = document.querySelector('.search');
+const suggestionsInput = document.querySelector('.suggestions');
+searchInput.addEventListener('change', displayMatches);
+searchInput.addEventListener('keyup', displayMatches)
+</script>
   </body>
 </html>
