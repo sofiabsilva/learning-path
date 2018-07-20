@@ -36,12 +36,21 @@ function findMatches(wordToMatch, cities) {
 }
 function displayMatches() {
   const matchArray = findMatches(this.value, cities);
-  console.log(matchArray)
-}
+  const html = matchArray.map(place => {
+    return `
+        <li>
+        <span class="name">${place.city}, ${place.state}</span>
+        <span class="population">${place.population}</span>
+        </li>
+        `;
+  }).join('');
+  suggestions.innerHTML = html;
+  }
+
 const searchInput = document.querySelector('.search');
-const suggestionsInput = document.querySelector('.suggestions');
+const suggestions = document.querySelector('.suggestions');
 searchInput.addEventListener('change', displayMatches);
-searchInput.addEventListener('keyup', displayMatches)
+searchInput.addEventListener('keyup', displayMatches) // to search in real time
 </script>
   </body>
 </html>
