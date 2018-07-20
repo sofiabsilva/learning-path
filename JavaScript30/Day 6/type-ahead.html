@@ -36,7 +36,8 @@ function findMatches(wordToMatch, cities) {
 }
 const numberWithCommas = (x) => {
   return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
-}
+} // used to put commas on population number
+
 function displayMatches() {
   const matchArray = findMatches(this.value, cities);
   const html = matchArray.map(place => {
@@ -49,7 +50,7 @@ function displayMatches() {
         <span class="population">${numberWithCommas(place.population)}</span>
         </li>
         `;
-  }).join('');
+  }).join(''); //to join array elements in a string without space or comma seperating them
   suggestions.innerHTML = html;
   }
 
