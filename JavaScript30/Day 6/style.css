@@ -1,71 +1,44 @@
-    html {
-      box-sizing: border-box;
-      background:#ffc600;
-      font-family:'helvetica neue';
-      font-size: 20px;
-      font-weight: 200;
-    }
-    *, *:before, *:after {
-      box-sizing: inherit;
-    }
-    input {
-      width: 100%;
-      padding:20px;
-    }
 
-    .search-form {
-      max-width:400px;
-      margin:50px auto;
-    }
+const endpoint = 'https://gist.githubusercontent.com/Miserlou/c5cd8364bf9b2420bb29/raw/2bf258763cdddd704f8ffd3ea9a3e81d25e2c6f6/cities.json';
 
-    input.search {
-      margin: 0;
-      text-align: center;
-      outline:0;
-      border: 10px solid #F7F7F7;
-      width: 120%;
-      left: -10%;
-      position: relative;
-      top: 10px;
-      z-index: 2;
-      border-radius: 5px;
-      font-size: 40px;
-      box-shadow: 0 0 5px rgba(0, 0, 0, 0.12), inset 0 0 2px rgba(0, 0, 0, 0.19);
-    }
+const cities = []; // array to put cities into
+fetch(endpoint)
+.then(response => response.json())
+.then(data => cities.push(...data)) // fetch() to get the data from endpoint's url (json file) and it returns a promise. then() returns a blob of info (the response)... It doesn't know what kind of data is in there. calling json() returns another promise which we call .then() again
+
+// you could do .then(data => cities = data) if const was let instead.
 
 
-    .suggestions {
-      margin: 0;
-      padding: 0;
-      position: relative;
-      /*perspective:20px;*/
-    }
-    .suggestions li {
-      background:white;
-      list-style: none;
-      border-bottom: 1px solid #D8D8D8;
-      box-shadow: 0 0 10px rgba(0, 0, 0, 0.14);
-      margin:0;
-      padding:20px;
-      transition:background 0.2s;
-      display:flex;
-      justify-content:space-between;
-      text-transform: capitalize;
-    }
+// creating function to get the massive array and filter it down to a subset that you can then listen for.
+function findMatches(wordToMatch, cities) {
+  return cities.filter(place => {
+    //here we need to figure out if the city or state matches what was searched
+    const regex = new RegExp(wordToMatch, 'gi');
+    //gi means global and insensitive. RegExp needs to be written like this, with captial R.
+    return place.city.match(regex) || place.state.match(regex);
+  });
+}
+const numberWithCommas = (x) => {
+  return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+} // used to put commas on population number (explained here: https://stackoverflow.com/questions/2901102/how-to-print-a-number-with-commas-as-thousands-separators-in-javascript)
 
-    .suggestions li:nth-child(even) {
-      transform: perspective(100px) rotateX(3deg) translateY(2px) scale(1.001);
-      background: linear-gradient(to bottom,  #ffffff 0%,#EFEFEF 100%);
-    }
-    .suggestions li:nth-child(odd) {
-      transform: perspective(100px) rotateX(-3deg) translateY(3px);
-      background: linear-gradient(to top,  #ffffff 0%,#EFEFEF 100%);
-    }
+function displayMatches() {
+  const matchArray = findMatches(this.value, cities);
+  const html = matchArray.map(place => {
+    const regexp = new RegExp(this.value, 'gi');
+    const cityName = place.city.replace(regexp, `<span class="hl">${this.value}</span>`);
+    const stateName = place.state.replace(regexp, `<span class="hl">${this.value}</span>`);
+    return `
+        <li>
+        <span class="name">${cityName}, ${stateName}</span>
+        <span class="population">${numberWithCommas(place.population)}</span>
+        </li>
+        `;
+  }).join(''); //to join array elements in a string without space or comma seperating them
+  suggestions.innerHTML = html;
+  }
 
-    span.population {
-      font-size: 15px;
-    }
-
-    .hl {
-      background:#ffc600;
-    }
+const searchInput = document.querySelector('.search');
+const suggestions = document.querySelector('.suggestions');
+searchInput.addEventListener('change', displayMatches);
+searchInput.addEventListener('keyup', displayMatches) // to search in real time
