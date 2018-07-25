@@ -3,6 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>HTML5 Canvas</title>
+  <link href="https://fonts.googleapis.com/css?family=Finger+Paint" rel="stylesheet">
 </head>
 <body>
 <canvas id="draw" width="800" height="800"></canvas>
@@ -12,7 +13,7 @@ const ctx = canvas.getContext("2d");
 //overwrites the default size:
 canvas.width = window.innerWidth;
 canvas.height = window.innerHeight;
-ctx.strokeStyle= "#BADA55"
+
 ctx.lineCap="round";
 ctx.lineJoin="round";
 ctx.lineWidth=50;
@@ -54,6 +55,17 @@ canvas.addEventListener('mousedown', (e)=> {
 canvas.addEventListener('mouseup', ()=> isDrawing = false);
 canvas.addEventListener('mouseout', ()=> isDrawing = false);
 
+//text:
+ctx.font = "bold 19px arial";
+  const gradient = ctx.createLinearGradient(0,0,150,100);
+  gradient.addColorStop(0, "orange");
+  gradient.addColorStop(0.25, "yellow");
+  gradient.addColorStop(0.5, "green");
+  gradient.addColorStop(0.75, "blue");
+  gradient.addColorStop(1, "indigo")
+ctx.fillStyle = gradient;
+ctx.fillText("Click anywhere and start painting!",10,50);
+
 //udacity HTML5 canvas
 // var c = document.querySelector("#draw");
 // var ctx = c.getContext("2d");
@@ -70,7 +82,7 @@ canvas.addEventListener('mouseout', ()=> isDrawing = false);
     margin:0;
     cursor: url('https://s15.postimg.cc/imu9qaahn/rainowcursorsmall.png'), auto;
   }
-
 </style>
+
 </body>
 </html>
