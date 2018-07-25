@@ -7,7 +7,54 @@
 <body>
 <canvas id="draw" width="800" height="800"></canvas>
 <script>
-  
+const canvas = document.querySelector("#draw");
+const ctx = canvas.getContext("2d");
+//overwrites the default size:
+canvas.width = window.innerWidth;
+canvas.height = window.innerHeight;
+ctx.strokeStyle= "#BADA55"
+ctx.lineCap="round";
+ctx.lineJoin="round";
+ctx.lineWidth=50;
+
+let isDrawing = false; // so that it doesn't start drawing right away (this is called a flag)
+let lastX = 0;
+let lastY = 0;
+let hue = 0;
+let direction = true;
+function draw (e) {
+  if (!isDrawing) {
+    return; //stop the function from running when mouse isn't down
+  }
+  console.log(e);
+  ctx.strokeStyle= `hsl(${hue},100%, 50%)`
+  ctx.beginPath()
+    ctx.moveTo(lastX,lastY);
+    lastX = e.offsetX;
+    lastY = e.offsetY;
+    ctx.lineTo(e.offsetX, e.offsetY);
+    ctx.stroke();
+    hue++;
+    if (ctx.lineWidth >= 100 || ctx.lineWidth <=1) {
+      direction= !direction; //flipping the direction of width "growth" once it reaches 100 and then again when it reaches 1.
+    }
+    if (direction) {
+      ctx.lineWidth++;
+    } else {
+      ctx.lineWidth--;
+    }
+  }
+
+canvas.addEventListener('mousemove', draw);
+
+canvas.addEventListener('mousedown', (e)=> {
+  isDrawing = true;
+  [lastX, lastY] = [e.offsetX, e.offsetY]; //destructuring assignment
+});
+canvas.addEventListener('mouseup', ()=> isDrawing = false);
+canvas.addEventListener('mouseout', ()=> isDrawing = false);
+
+
 //udacity HTML5 canvas
 // var c = document.querySelector("#draw");
 // var ctx = c.getContext("2d");
@@ -18,7 +65,6 @@
 // ctx.lineTo(125,75);
 // ctx.lineTo(125,125);
 // ctx.fill()
-
 </script>
 
 <style>
