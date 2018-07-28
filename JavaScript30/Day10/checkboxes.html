@@ -6,7 +6,6 @@
 </head>
 <body>
   <style>
-
     html {
       font-family: sans-serif;
       background:#ffc600;
@@ -32,7 +31,7 @@
 
 
     input:checked + p {
-      background:#F9F9F9;
+      background: #F9F9F9;
       text-decoration: line-through;
     }
 
@@ -97,15 +96,53 @@
       <p>Don't forget to tweet your result!</p>
     </div>
   </div>
-
 <script>
-  // My thought proccess:
+// My thought proccess:
 // first figure out a way to check if the shift key is pressed while input is checked (using event listener for this).
 // figure out a way to check boxes between 1st checked item until the 2nd checked item while holding shift.
   // How:
   // Obtain index of checked items--> how to extract that from the nodelist of inputs?
   // Obtain first checked item and last checked item indexes to make a loop where if first check < last check the loop iterates forwards and checks the boxes until reaching the last check! And it will go the opposite way if first check > last check.
   // Use inputs[i].checked = true; to check items;
+
+const inputs = document.querySelectorAll("input");
+// console.log(inputs); // this is a nodelist
+
+let firstCheck = "";
+let lastCheck = "";
+function isKeyPressed(event) {
+  const inputsArray = Array.from(inputs); //convert nodelist into array to then use indexOf()
+  // finding index of checked box;
+  // and update firstCheck and lastCheck variables with their respective indexes.
+    if (firstCheck === "") {
+      firstCheck = inputsArray.indexOf(this);
+    } else {
+      lastCheck = inputsArray.indexOf(this);
+    }
+    if (event.shiftKey === true) {
+        checkAllBetween(firstCheck, lastCheck);
+    } else {
+    return;
+    }
+}
+
+function checkAllBetween(first, last) {
+  if (first < last) {
+    let i;
+    for (i = first; i < last; i++) {
+    inputs[i].checked = true;
+    }
+  } else if (first > last) {
+    let i;
+    for (i = first; i > last; i--) {
+    inputs[i].checked = true;
+    }
+  } else {
+    return;
+  }
+}
+  inputs.forEach((item) => {item.addEventListener('mousedown', isKeyPressed)});
+
 </script>
 </body>
 </html>
