@@ -10,8 +10,8 @@
 // get elements:
 const playButton = document.querySelector('.player__button');
 const video = document.querySelector('.player__video');
-const volume = document.querySelector('.player__slider');
-
+const volume = document.querySelector('#volumeSlider');
+const playBack = document.querySelector('#playBackSlider');
 //initializing variables
 let playing = false;
 
@@ -29,8 +29,13 @@ function changeVolume() {
   video.volume = `${volume.value}`;
 }
 
+function changePlayBackRate() {
+  video.playbackRate = `${playBack.value}`;
+}
 // Hooking event listeners
 playButton.addEventListener('click', togglePlay);
 video.addEventListener('click', togglePlay);
 volume.addEventListener('change', changeVolume);
 volume.addEventListener('mousemove', changeVolume);
+playBack.addEventListener('change', changePlayBackRate);
+playBack.addEventListener('mousemove', changePlayBackRate);
