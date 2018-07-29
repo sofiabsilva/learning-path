@@ -1,19 +1,19 @@
 //TODO:
 /*
- - play/pause video on clicking the start button;
- - change volume when sliding the volume slider (1st one);
- - change the speed of the video by sliding 2nd player__slider;
- - using the last two buttons to go back 10s or forwards 25s;
- - when clicking anywhere on the player window start playing/stop playing;
+ - play video on clicking the start button ✔️
+ - change volume when sliding the volume slider (1st one);  ✔️
+ - change the speed of the video by sliding 2nd player__slider
+ - using the last two buttons to go back 10s or forwards 25 s.
+ - when clicking anywhere on the player window start playing/stop playing ✔️
 */
 
 // get elements:
 const playButton = document.querySelector('.player__button');
 const video = document.querySelector('.player__video');
+const volume = document.querySelector('.player__slider');
 
 //initializing variables
 let playing = false;
-
 
 // functions
 function togglePlay() {
@@ -25,6 +25,12 @@ function togglePlay() {
   }
 }
 
+function changeVolume() {
+  video.volume = `${volume.value}`;
+}
+
 // Hooking event listeners
 playButton.addEventListener('click', togglePlay);
 video.addEventListener('click', togglePlay);
+volume.addEventListener('change', changeVolume);
+volume.addEventListener('mousemove', changeVolume);
