@@ -16,10 +16,12 @@ const volume = document.querySelector('#volumeSlider');
 const playBack = document.querySelector('#playBackSlider');
 const rewind = document.querySelector('#rewind');
 const skipForward = document.querySelector('#skipForward');
-const progress = document.querySelector('.progress__filled');
+const progressBar = document.querySelector('.progress__filled');
+const progress = document.querySelector('.progress');
 
 //initializing variables
 let playing = false;
+let mousedown = false;
 // functions
 function togglePlay() {
   playing = !playing;
@@ -49,7 +51,12 @@ function goForwardInTime() {
 
 function showProgress() {
   const percent = (video.currentTime / video.duration) *100;
-  progress.style.flexBasis = `${percent}%`;
+  progressBar.style.flexBasis = `${percent}%`;
+}
+
+function changeProgressTime(e) {
+  const scrubTime = (e.offsetX / progress.offsetWidth)* video.duration;
+  video.currentTime = scrubTime;
 }
 // Hooking event listeners
 playButton.addEventListener('click', togglePlay);
@@ -61,3 +68,7 @@ playBack.addEventListener('mousemove', changePlayBackRate);
 rewind.addEventListener('click', goBackTime);
 skipForward.addEventListener('click', goForwardInTime);
 video.ontimeupdate= showProgress; //to keep updating the progress bar
+progress.addEventListener('click',changeProgressTime);
+progress.addEventListener('mousemove', (e) => mousedown && changeProgressTime(e)); // instead of if statement that will run the function when it's true we can do this, if mousedwon is false it will just stop running.
+progress.addEventListener('mousedown', () => mousedown = true);
+progress.addEventListener('mouseup', () => mousedown = false);
