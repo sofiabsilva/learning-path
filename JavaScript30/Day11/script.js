@@ -6,7 +6,9 @@
  - using the last two buttons to go back 10s or forwards 25 s ✔️
  - when clicking anywhere on the player window start playing/stop playing ✔️
  - progress updates in real time ✔️
- - using the video progress slider to change the current Time
+ - using the video progress slider to change the current Time ✔️
+ BONUS:
+ - Add fullscreen option ✔️
 */
 
 // get elements:
@@ -18,6 +20,7 @@ const rewind = document.querySelector('#rewind');
 const skipForward = document.querySelector('#skipForward');
 const progressBar = document.querySelector('.progress__filled');
 const progress = document.querySelector('.progress');
+const fullScreenButton = document.querySelector('.full-screen');
 
 //initializing variables
 let playing = false;
@@ -58,6 +61,14 @@ function changeProgressTime(e) {
   const scrubTime = (e.offsetX / progress.offsetWidth)* video.duration;
   video.currentTime = scrubTime;
 }
+
+function toggleFullScreen() {
+  //Fullscreen API
+    video.webkitRequestFullscreen();
+    video.mozRequestFullScreen();
+    video.requestFullScreen();
+}
+
 // Hooking event listeners
 playButton.addEventListener('click', togglePlay);
 video.addEventListener('click', togglePlay);
@@ -72,3 +83,4 @@ progress.addEventListener('click',changeProgressTime);
 progress.addEventListener('mousemove', (e) => mousedown && changeProgressTime(e)); // instead of if statement that will run the function when it's true we can do this, if mousedwon is false it will just stop running.
 progress.addEventListener('mousedown', () => mousedown = true);
 progress.addEventListener('mouseup', () => mousedown = false);
+fullScreenButton.addEventListener('click', toggleFullScreen);
