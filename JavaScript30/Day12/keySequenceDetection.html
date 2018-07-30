@@ -4,9 +4,41 @@
   <meta charset="UTF-8">
   <title>Key Detection</title>
   <script type="text/javascript" src="http://www.cornify.com/js/cornify.js"></script>
+  <link href="https://fonts.googleapis.com/css?family=Spirax" rel="stylesheet">
 </head>
+<style>
+body {
+  text-align: center;
+  color: #712687;
+  background: #E0EAFC;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(left, #CFDEF3, #E0EAFC);
+  background: -o-linear-gradient(left, #CFDEF3, #E0EAFC);
+  background: linear-gradient(to right, #CFDEF3, #E0EAFC);  /* Chrome 10-25, Safari 5.1-6 */ /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+h1 {
+  font-family: 'Spirax', cursive;
+}
+
+p {
+  font-family: arial;
+}
+
+</style>
 <body>
+  <h1>Type the secret code!</h1>
+  <p>Hint: Unicorns and _ _ _ _ _ _ _ _</h1></p>
 <script>
+const pressed = [];
+const secretcode = 'rainbows';
+
+window.addEventListener('keyup', (e) => {
+pressed.push(e.key);
+pressed.splice(0, pressed.length - secretcode.length);
+  if (pressed.join('').includes(secretcode)) { // or pressed.join('') === secretcode;
+    console.log('You did it!')
+    cornify_add();
+  }
+});
 </script>
 </body>
 </html>
