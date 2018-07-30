@@ -55,6 +55,12 @@
       - [Flexbox and JS Gallery](https://codepen.io/Tubbie/full/WKrpPR)
       - With "Array cardio" learned how to use array methods like filter(), map(), reduce() etc. 
       - Took "Asynchronous JavaScript Requests" course on Udacity. 
+      - [Type Ahead - Async JS](https://codepen.io/Tubbie/full/ejgdNQ)
+      - [Form for a slack group I'm part of](https://sofiabsilva.github.io/slack-users-form/)
+      - [Painting with HTML5 Canvas](https://codepen.io/Tubbie/full/wxqWwX) - Started Udacity course for it as well
+      - [Checking Boxes - Shift key](https://codepen.io/Tubbie/full/rrYjZB) - Actually did this all by myself!
+      - [HTML video player](https://codepen.io/Tubbie/full/bjaaYO)
+      
       
 # Next Steps
    - Make the Tubbie Arts website live and market it
