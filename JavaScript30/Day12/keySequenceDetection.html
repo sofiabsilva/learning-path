@@ -30,13 +30,16 @@ p {
 <script>
 const pressed = [];
 const secretcode = 'rainbows';
+const hint = document.querySelector('p');
+const title = document.querySelector('h1');
 
 window.addEventListener('keyup', (e) => {
 pressed.push(e.key);
 pressed.splice(0, pressed.length - secretcode.length);
   if (pressed.join('').includes(secretcode)) { // or pressed.join('') === secretcode;
-    console.log('You did it!')
     cornify_add();
+    hint.remove();
+    title.textContent= "unicorns are awesome!" ;
   }
 });
 </script>
