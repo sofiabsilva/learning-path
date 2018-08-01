@@ -43,11 +43,10 @@
       - ["Product Landing Page"](https://sofiabsilva.github.io/product-landing-page-FCC/);
       - ["Technical Documentation Page"](https://codepen.io/Tubbie/full/gKKVmB);
    
-# Currently
-   - I've been logging on [this](https://github.com/sofiabsilva/100-days-of-code/blob/master/log.md) repo about what I've been doing each day for the #100DaysOfCode, I'm also [tweeting](https://twitter.com/TubbieHead) about my thoughts and progress with the challenge hashtag. 
-   - Learning ES6
-   - Doing the [#JavaScript30](https://javascript30.com/) course/challenge, my goal is to do a project each day (clearly not realistic) but also apply my own styles and try new things with CSS as well.
-   
+# July 2018
+  - Doing the [#JavaScript30](https://javascript30.com/) course/challenge, my goal is to learn by doing, ideally a project each day (clearly not realistic) but also apply my own styles and try new things with CSS as well.
+  - Learning ES6 by practicing with it as well as with Udacity and FCC.
+  
        ## Projects and Skills aquired
       - [Keyboard Drum Kit](https://codepen.io/Tubbie/full/vrMGRK)
       - [CSS & JS Clock](https://codepen.io/Tubbie/full/ZRgXXK)
@@ -56,12 +55,16 @@
       - With "Array cardio" learned how to use array methods like filter(), map(), reduce() etc. 
       - Took "Asynchronous JavaScript Requests" course on Udacity. 
       - [Type Ahead - Async JS](https://codepen.io/Tubbie/full/ejgdNQ)
-      - [Form for a slack group I'm part of](https://sofiabsilva.github.io/slack-users-form/)
+      - [Form for a slack group I'm part of](https://sofiabsilva.github.io/slack-users-form/) - Thanks to @Zaydek for asking me to do it and assisting me!
       - [Painting with HTML5 Canvas](https://codepen.io/Tubbie/full/wxqWwX) - Started Udacity course for it as well
       - [Checking Boxes - Shift key](https://codepen.io/Tubbie/full/rrYjZB) - Actually did this all by myself!
       - [HTML video player](https://codepen.io/Tubbie/full/bjaaYO)
+      - [Key Sequence Direction](https://codepen.io/Tubbie/full/djJjwM)
+      - [Slide in on Scroll](https://codepen.io/Tubbie/full/BPYwJX)
       
-      
+# Currently
+   - I've been logging on [this](https://github.com/sofiabsilva/100-days-of-code/blob/master/log.md) repo about what I've been doing each day for the #100DaysOfCode, I'm also [tweeting](https://twitter.com/TubbieHead) about my thoughts and progress with the challenge hashtag. 
+  
 # Next Steps
    - Make the Tubbie Arts website live and market it
    - Take more advanced Udacity JS courses
