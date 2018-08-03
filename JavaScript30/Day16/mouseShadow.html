@@ -10,30 +10,32 @@
     <h1 contenteditable>❤️ Shadows</h1>
   </div>
 
-  <style>
+   <style>
   html {
-    color:black;
+    color: black;
     font-family: sans-serif;
   }
-
   body {
     margin: 0;
-  }
-
+    background: #7b4397;  //fallback  /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(left, #dc2430, #7b4397);
+    background: -o-linear-gradient(left, #dc2430, #7b4397);
+    background: linear-gradient(to right, #dc2430, #7b4397); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    }
   .hero {
     min-height: 100vh;
     display:flex;
     justify-content: center;
     align-items: center;
-    color:black;
+    color: #e0d4d4;
   }
-
   h1 {
-    text-shadow: 10px 10px 10px gray;
+    text-shadow: 10px 10px 10px black;
+    text-shadow: 10px 10px 10px #0000008f;
     font-size: 100px;
   }
-  </style>
 
+  </style>
 <script>
 const hero = document.querySelector('.hero');
 const h1 = document.querySelector('h1');
@@ -55,7 +57,7 @@ function makeShadow(e) {
   }
   const xWalk = Math.round(x / width * walk) - (walk / 2); 
   const yWalk = Math.round(y / height * walk) - (walk / 2);
-h1.style.textShadow = `${xWalk}px ${yWalk}px 10px gray`;
+h1.style.textShadow = `${xWalk}px ${yWalk}px 10px #0000008f`;
 }
 
 hero.addEventListener('mousemove', makeShadow);
