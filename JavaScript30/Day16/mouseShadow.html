@@ -53,13 +53,8 @@ function makeShadow(e) {
     x = x + e.target.offsetLeft;
     y = y + e.target.offsetTop;
   }
-  const xWalk = Math.round(x / width * walk) - (walk / 2); // quanto mais o cursor (x) se aproxima do lado direito (ou seja mais perto do valor do  width), maior e + positivo será o afastamento horizontal (Xwalk) que poderá apenas chegar a walk/2.
+  const xWalk = Math.round(x / width * walk) - (walk / 2); 
   const yWalk = Math.round(y / height * walk) - (walk / 2);
-
-console.log(x);
-console.log(x / width); // quando chega a 0.5(1/2) está no meio do h1, e ao afastar daí queremos que mude entre positivo e negativo.
-console.log(xWalk);
-
 h1.style.textShadow = `${xWalk}px ${yWalk}px 10px gray`;
 }
 
