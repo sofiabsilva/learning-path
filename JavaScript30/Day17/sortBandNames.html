@@ -22,7 +22,7 @@
       font-size: 20px;
       background: white;
       width: 500px;
-      margin: auto;
+      margin: 20px auto 20px auto;
       padding: 0;
       box-shadow: 0 0 0 20px rgba(0, 0, 0, 0.05);
     }
@@ -70,11 +70,14 @@ let replacedB ="";
       } else {
         replacedB = b;
       }
-
        return replacedA < replacedB ? -1: 1;
      });
 
 console.table(sortByName);
+const ul = document.querySelector('#bands');
+
+sortByName.forEach((band) =>
+ul.innerHTML += `<li> ${band} </li>`);
 </script>
 
 </body>
