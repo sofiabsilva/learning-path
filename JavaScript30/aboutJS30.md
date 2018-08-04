@@ -5,7 +5,7 @@ In this folder I'll be updloading my solutions of each project.
 
 This is Wes Bos repo for it: https://github.com/wesbos/JavaScript30
 
-## The Challenges: 
+## Challenges completed: 
 
 - Day 1 : JS Drum kit
 - Day 2 : JS and CSS Clock
