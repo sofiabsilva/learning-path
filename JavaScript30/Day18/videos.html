@@ -182,6 +182,30 @@
     </li>
   </ul>
 <script>
+// objective: to get the total number of minutes of the videos.
+// pull minutes out of the dom
+// convert them to numbers, make them into minutes and seconds
+// console.log those values.
+
+const time = Array.from(document.querySelectorAll('[data-time]')); // converting node list to array to use map etc after
+
+const seconds = time
+  .map(node => node.dataset.time)
+  .map(timeCode =>{
+  const [mins, secs] = timeCode.split(':').map(parseFloat); //these aren't numbers yet, they're strings, so we use parseFloat to convert to numbers
+    return (mins * 60) + secs;
+  })
+  .reduce((total, currentSecs) => total + currentSecs); // adding up (accumulating) the seconds to get the total
+
+  let secondsLeft = seconds
+  const hours = Math.floor(secondsLeft/3600);
+  secondsLeft = seconds % 3600; // to see how many seconds are left after 4 hours;
+
+  const minutes = Math.floor(secondsLeft/60);
+  secondsLeft = secondsLeft % 60;
+
+
+  console.log(hours, minutes, secondsLeft) // 4h 58m 58s
 </script>
 </body>
 </html>
