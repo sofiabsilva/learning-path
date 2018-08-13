@@ -63,7 +63,12 @@
       - [Slide in on Scroll](https://codepen.io/Tubbie/full/BPYwJX)
       
 # Currently
-   - I've been logging on [this](https://github.com/sofiabsilva/100-days-of-code/blob/master/log.md) repo about what I've been doing each day for the #100DaysOfCode, I'm also [tweeting](https://twitter.com/TubbieHead) about my thoughts and progress with the challenge hashtag. 
+   ##Projects and Skills aquired
+      - [Local Storage & Event Delegation](https://codepen.io/Tubbie/full/MBXazo)
+      - [Mouse Shadow](https://codepen.io/Tubbie/full/varXZE/)
+      - [Sort Band Names](https://codepen.io/Tubbie/full/djKEpM)
+      
+   - On August 9th finished the #100DaysOfCode challenge, where I've posted on [this](https://github.com/sofiabsilva/100-days-of-code/blob/master/log.md) repo about what I've been doing each day and also [tweeting](https://twitter.com/TubbieHead) about my thoughts and progress with the challenge hashtag. 
   
 # Next Steps
    - Make the Tubbie Arts website live and market it
