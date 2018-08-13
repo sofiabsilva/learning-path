@@ -63,7 +63,7 @@
       - [Slide in on Scroll](https://codepen.io/Tubbie/full/BPYwJX)
       
 # Currently
-   ##Projects and Skills aquired
+   ## Projects and Skills aquired
       - [Local Storage & Event Delegation](https://codepen.io/Tubbie/full/MBXazo)
       - [Mouse Shadow](https://codepen.io/Tubbie/full/varXZE/)
       - [Sort Band Names](https://codepen.io/Tubbie/full/djKEpM)
