@@ -63,14 +63,19 @@
       - [Slide in on Scroll](https://codepen.io/Tubbie/full/BPYwJX)
       
 # Currently
-   ## Projects and Skills aquired
+  - Continuing the [#JavaScript30](https://javascript30.com/) challenge
+  - Learning Regular Expressions on FreeCodeCamp
+  - Doing the Harvard CS50's Introduction to Computer Science on EdX. It's been reccomended to me, and I needed something to get excited about right now, so there we go! I hope it's not too much to be learning intermediate/advanced JS and other languages that will be taught like C and Python at the same time... We'll see, if it's too much I'll pause it and continue focusing on JS.
+  
+      ## Projects and Skills aquired
       - [Local Storage & Event Delegation](https://codepen.io/Tubbie/full/MBXazo)
       - [Mouse Shadow](https://codepen.io/Tubbie/full/varXZE/)
       - [Sort Band Names](https://codepen.io/Tubbie/full/djKEpM)
       
    - On August 9th finished the #100DaysOfCode challenge, where I've posted on [this](https://github.com/sofiabsilva/100-days-of-code/blob/master/log.md) repo about what I've been doing each day and also [tweeting](https://twitter.com/TubbieHead) about my thoughts and progress with the challenge hashtag. 
-   - Started the Harvard CS50 course on EdX. It was reccomended as an intro to Computer Science, and I needed something to get excited about right now, so there we go! I hope it's not too much to be learning intermediate/advanced JS and other languages that will be taught like C, python... We'll see.
-    - [x] Week 0 - Loved the first lecture and already got to learn about a bunch of conceps, like what Binary and ASCII are actually.  
+   
+      ### CS50
+      - [x] Week 0, Loved the first lecture and already got to learn about a bunch of conceps, like what Binary and ASCII are actually.  
   
 # Next Steps
    - Get Tubbie Arts website live and market it 
