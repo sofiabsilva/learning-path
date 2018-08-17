@@ -69,8 +69,10 @@
       - [Sort Band Names](https://codepen.io/Tubbie/full/djKEpM)
       
    - On August 9th finished the #100DaysOfCode challenge, where I've posted on [this](https://github.com/sofiabsilva/100-days-of-code/blob/master/log.md) repo about what I've been doing each day and also [tweeting](https://twitter.com/TubbieHead) about my thoughts and progress with the challenge hashtag. 
+   - Started the Harvard CS50 course on EdX. It was reccomended as an intro to Computer Science, and I needed something to get excited about right now, so there we go! I hope it's not too much to be learning intermediate/advanced JS and other languages that will be taught like C, python... We'll see.
+    - [x] Week 0 - Loved the first lecture and already got to learn about a bunch of conceps, like what Binary and ASCII are actually.  
   
 # Next Steps
-   - Make the Tubbie Arts website live and market it
+   - Get Tubbie Arts website live and market it 
    - Take more advanced Udacity JS courses
    - Start working on the FreeCodeCamp algorithm challenges and JS projects. Exciting times!
