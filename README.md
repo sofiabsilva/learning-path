@@ -75,7 +75,7 @@
    - On August 9th finished the #100DaysOfCode challenge, where I've posted on [this](https://github.com/sofiabsilva/100-days-of-code/blob/master/log.md) repo about what I've been doing each day and also [tweeting](https://twitter.com/TubbieHead) about my thoughts and progress with the challenge hashtag. 
    
       ### CS50
-      - [x] Week 0, Loved the first lecture and already got to learn about a bunch of conceps, like what Binary and ASCII are actually.  
+      - [x] Week 0, Loved the first lecture and already got to learn about a bunch of conceps, like what Binary and ASCII are actually. For the 1st problem set I made this little [Harry Potter game "Survive the Dementors"](https://scratch.mit.edu/projects/239435007/) (of course), with Scratch! I wish I would have found this program as a kid...
   
 # Next Steps
    - Get Tubbie Arts website live and market it 
