@@ -76,7 +76,18 @@
    
       ### CS50
       - [x] Week 0, Loved the first lecture and already got to learn about a bunch of conceps, like what Binary and ASCII are actually. For the 1st problem set I made this little Harry Potter game (of course) ["Survive the Dementors"](https://scratch.mit.edu/projects/239435007/) using Scratch! I wish I would have found this programming language as a kid...
-  
+      - [ ] Week 1
+      - [ ] Week 2
+      - [ ] Week 3
+      - [ ] Week 4
+      - [ ] Week 5
+      - [ ] Week 6
+      - [ ] Week 7
+      - [ ] Week 8
+      - [ ] Week 9
+      - [ ] Week 10
+      - [ ] Week 11
+
 # Next Steps
    - Get Tubbie Arts website live and market it 
    - Take more advanced Udacity JS courses
