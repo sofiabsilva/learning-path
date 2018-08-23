@@ -3,7 +3,7 @@
 Read about this challenge and join in!
 https://www.100daysofcode.com/
 
-Finished round 1 earlier this month, paused on doing coding related things just for a few days (non-consecutively), but now I feel like it's time for round 2. 
+Finished round 1 earlier this month, paused on doing coding related things just for a few days (non-consecutively), but now I feel like it's time for round 2 as I started a new course I'm super excited about! Harvard's CS50!
 
 ## Main goals for this round:
 - Successfuly complete CS50; 
@@ -16,4 +16,4 @@ Finished round 1 earlier this month, paused on doing coding related things just 
 
 **Today's Progress**: Finished lecture 1 of the CS50 course. Learned what compiling is! 
 
-**Thoughts:** First contact with the C language wasn't too bad, some things are done the exact same way in JavaScript. Fascinated about the final part of the lecture about memory Overflow. 
+**Thoughts:** First contact with the C language wasn't too bad, some things are done the exact same way in JavaScript, it's really cool to learn another language, was expecting to be overwhelmed, let's see how I do with the next problem set... Fascinated about the final part of the lecture about memory Overflow. 
