@@ -19,7 +19,7 @@ Finished round 1 earlier this month, paused on doing coding related things just 
 **Thoughts:** First contact with the C language wasn't too bad, some things are done the exact same way in JavaScript, it's really cool to learn another language, was expecting to be overwhelmed, let's see how I do with the next problem set... Fascinated about the final part of the lecture about memory Overflow. 
 
 ### Day 2: August 24, 2018
-#### :mortar_board: Learning & Doing
+#### :mortar_board: Learning & Applying
 
 **Today's Progress**: Started to work on problem set 1 (for week 1 of CS50), watched a few "shorts" that are a great addition to the course, where some of the concepts that were introduced in the lectures are presented in a clear manner. 
 
