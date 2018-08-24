@@ -17,3 +17,10 @@ Finished round 1 earlier this month, paused on doing coding related things just 
 **Today's Progress**: Finished lecture 1 of the CS50 course. Learned what compiling is! 
 
 **Thoughts:** First contact with the C language wasn't too bad, some things are done the exact same way in JavaScript, it's really cool to learn another language, was expecting to be overwhelmed, let's see how I do with the next problem set... Fascinated about the final part of the lecture about memory Overflow. 
+
+### Day 2: August 24, 2018
+#### :mortar_board: Learning & Doing
+
+**Today's Progress**: Started to work on problem set 1 (for week 1 of CS50), watched a few "shorts" that are a great addition to the course, where some of the concepts that were introduced in the lectures are presented in a clear manner. 
+
+**Thoughts:** The style guide for the course is a bit different to what I use normally (udacity styleguide), mainly in terms of curly brace placement. I prefer the udacity style but won't be able to use it as these problem sets will be evaluated with their own styleguide in mind (which they say it's more readable, but maybe it's not for me just because that's the way I'm used to?) anyway, I welcome this added "challenge" with open arms. 
