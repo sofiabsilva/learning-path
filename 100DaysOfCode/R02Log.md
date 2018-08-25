@@ -24,3 +24,8 @@ Finished round 1 earlier this month, paused on doing coding related things just 
 **Today's Progress**: Started to work on problem set 1 (for week 1 of CS50), watched a few "shorts" that are a great addition to the course, where some of the concepts that were introduced in the lectures are presented in a clear manner. 
 
 **Thoughts:** The style guide for the course is a bit different to what I use normally (udacity styleguide), mainly in terms of curly brace placement. I prefer the udacity style but won't be able to use it as these problem sets will be evaluated with their own styleguide in mind (which they say it's more readable, but maybe it's not for me just because that's the way I'm used to?) anyway, I welcome this added "challenge" with open arms. 
+
+### Day 3: August 25, 2018
+#### :mortar_board: Problem solving
+
+**Today's Progress**: Continued working on problem set 1 (for week 1 of CS50), managed to solve 2 of them with help of a few "walkthroughs"
