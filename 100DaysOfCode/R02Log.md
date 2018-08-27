@@ -40,6 +40,8 @@ Finished round 1 earlier this month, paused on doing coding related things just 
 ### Day 5: August 27, 2018
  #### :mortar_board Problem solving
  
- **Today's Progress**: Completed the problem set 1 and submited it! 
+ **Today's Progress**: Completed the problem set 1 and submited all my solutions! Assisted lecture 2, per continuation of week 1.
  
  **Thoughts:** I'm so happy! Can't wait to continue being challenged like this! 
+ 
+ 
