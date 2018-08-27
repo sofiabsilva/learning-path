@@ -75,9 +75,11 @@
    - On August 9th finished the #100DaysOfCode challenge, where I've posted on [this](https://github.com/sofiabsilva/100-days-of-code/blob/master/log.md) repo about what I've been doing each day and also [tweeting](https://twitter.com/TubbieHead) about my thoughts and progress with the challenge hashtag. 
    
       ### CS50
-      - [x] Week 0: Loved the first lecture and already got to learn about a bunch of conceps, like what Binary and ASCII are actually. For the 1st problem set (actually Pset0) I made this little Harry Potter game (of course) ["Survive the Dementors"](https://scratch.mit.edu/projects/239435007/) using Scratch! I wish I would have found this programming language as a kid...
+      - [x] Week 0: Loved the first lecture and already got to learn about a bunch of conceps, like what Binary and ASCII are actually.
+         - **Pset0**: For the 1st problem set I made this little Harry Potter game (of course) ["Survive the Dementors"](https://scratch.mit.edu/projects/239435007/) using Scratch! I wish I would have found this programming language as a kid...
       
-      - [ ] Week 1: Introduction to C is going well! Learned about compiling, memory overflow and the C syntax. Some of the Pset1 problems were challenging, specially the last one in which I had to write a program that would get a credit card number input and output if the card is valid and the CC company it belongs to. Very cool stuff! Gimmie more!
+      - [ ] Week 1: Introduction to C! Also learned about compiling and memory overflow. 
+         - **Pset1**: Some of the Pset1 problems were challenging, specially the last one in which I had to write a program that would get a credit card number input and output if the card is valid and the CC company it belongs to. Very cool stuff! Gimmie more!
       
       - [ ] Week 2, 
       - [ ] Week 3
