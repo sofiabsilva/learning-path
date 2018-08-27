@@ -35,4 +35,11 @@ Finished round 1 earlier this month, paused on doing coding related things just 
 
 **Today's Progress**: Continued Problem Set 1, Last problem is almost solved (I think).
 
+**Thoughts:** This one is to write a program that validates any credit card number input (according to "Luhn’s algorithm") and outputs if it's a mastercard, visa or american express card. It's the hardest problem yet but soooooo cool. 
 
+### Day 5: August 27, 2018
+ #### :mortar_board Problem solving
+ 
+ **Today's Progress**: Completed the problem set 1 and submited it! 
+ 
+ **Thoughts:** I'm so happy! Can't wait to continue being challenged like this! 
