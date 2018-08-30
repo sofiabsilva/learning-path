@@ -53,3 +53,8 @@ Finished round 1 earlier this month, paused on doing coding related things just 
 #### :mortar_board: Learning 
 
 **Today's Progress**: Watched some more shorts, learned about using constants, arrays and command-line arguments in C. Started planing my code for the first problem of Pset2. Cryptography! Love this.  
+
+### Day 8: August 30, 2018
+#### :mortar_board: Problem Solving
+
+**Today's Progress & Thoughts:** I don't know why today I've been anxious all day, might be because I didn't get enough sleep and therefore wasn't as productive. Trying to continue with Pset2 wasn't very wise. I spent a lot of time thinking about how to solve it before watching the walkthrough but finally gave in and now I understand that the problem is much more complex than I was making it xD At least now I have a better direction on how to solve it.
