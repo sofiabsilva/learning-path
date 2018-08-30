@@ -45,6 +45,11 @@ Finished round 1 earlier this month, paused on doing coding related things just 
  **Thoughts:** I'm so happy! Can't wait to continue being challenged like this! 
  
 ### Day 6: August 28, 2018
-#### :mortar_board: Problem solving
+#### :mortar_board: Learning
  
 **Today's Progress**: Watched 2 of the short segments for Week 1, continued. Learning to use the built in debugger on CS50's IDE and wrote a small function for practicing, preparing to start problem set 2!
+
+### Day 7: August 29, 2018
+#### :mortar_board: Learning 
+
+**Today's Progress**: Watched some more shorts, learned about using constants, arrays and command-line arguments in C. Started planing my code for the first problem of Pset2. Cryptography! Love this.  
