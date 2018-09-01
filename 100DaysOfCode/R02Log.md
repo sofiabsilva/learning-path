@@ -63,3 +63,8 @@ Finished round 1 earlier this month, paused on doing coding related things just 
 #### :mortar_board: Problem Solving
 
 **Today's Progress:** Continuing to work on CS50. Submitted "caesar.c", a Program that encrypts messages using Caesar’s cipher. Started the second problem on this Pset2.
+
+### Day 10: September 1, 2018
+#### :mortar_board: Problem Solving
+
+**Today's Progress:** Completed the second problem of Pset2, a program that encrypts messages using the "Vigenère cipher". Now onto the hardest one of the bunch... 
