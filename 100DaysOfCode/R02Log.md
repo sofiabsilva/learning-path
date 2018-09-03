@@ -74,3 +74,8 @@ Finished round 1 earlier this month, paused on doing coding related things just 
 
 **Today's Progress:** Kinda sorta DID IT. The last problem for Pset2 was to write a program that discovers the passwords based on a given hash code with the crypt() function. Took me a day and a half to figure out how to do it.
 But I don't think my solution is good. Cracking some simple passwords was fast (up to three letters) but after that it takes a lot of time. Using nested for loops probably isn't the most efficient way to solve the problem? I think I'll get back to this one later on if I figure out a better way to do it.  
+
+### Day 12: September 3, 2018
+#### :mortar_board: Learning
+
+**Today's Progress:** Spent a few hours on FCC, continuing the RegExp challenges.
