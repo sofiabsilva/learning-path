@@ -79,3 +79,8 @@ But I don't think my solution is good. Cracking some simple passwords was fast (
 #### :mortar_board: Learning
 
 **Today's Progress:** Spent a few hours on FCC, continuing the RegExp challenges.
+
+### Day 13: September 4, 2018
+#### :mortar_board: Learning
+
+**Today's Progress:** Finished the FCC Regular Expressions section and started the debugging section.
