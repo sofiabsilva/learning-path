@@ -83,4 +83,4 @@ But I don't think my solution is good. Cracking some simple passwords was fast (
 ### Day 13: September 4, 2018
 #### :mortar_board: Learning
 
-**Today's Progress:** Finished the FCC Regular Expressions section and started the debugging section.
+**Today's Progress:** Finished the FCC Regular Expressions section and also the the debugging section.
