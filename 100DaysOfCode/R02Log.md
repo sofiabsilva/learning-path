@@ -84,3 +84,9 @@ But I don't think my solution is good. Cracking some simple passwords was fast (
 #### :mortar_board: Learning
 
 **Today's Progress:** Finished the FCC Regular Expressions section and also the the debugging section.
+
+### Day 14: September 5, 2018
+#### :mortar_board: Learning
+
+**Today's Progress:** Assisted lecture 3 (week 2) of CS50!  
+
