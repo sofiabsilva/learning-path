@@ -90,3 +90,7 @@ But I don't think my solution is good. Cracking some simple passwords was fast (
 
 **Today's Progress:** Assisted lecture 3 (week 2) of CS50!  
 
+### Day 15: September 6, 2018
+#### :mortar_board: Learning
+
+**Today's Progress:** Continuing with lecture 3 and some of the short additional videos. Studying Computational Complexibility and algorithms.
