@@ -94,3 +94,8 @@ But I don't think my solution is good. Cracking some simple passwords was fast (
 #### :mortar_board: Learning
 
 **Today's Progress:** Continuing with lecture 3 and some of the short additional videos. Studying Computational Complexibility and algorithms.
+
+### Day 16: September 7, 2018
+#### :mortar_board: Learning
+
+**Today's Progress:** Done with the shorts for this week, got a deeper understanding on recursive functions and how to choose what algorithms to use, now onto Pset3.
