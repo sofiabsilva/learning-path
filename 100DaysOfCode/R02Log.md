@@ -99,3 +99,8 @@ But I don't think my solution is good. Cracking some simple passwords was fast (
 #### :mortar_board: Learning
 
 **Today's Progress:** Done with the shorts for this week, got a deeper understanding on recursive functions and how to choose what algorithms to use, now onto Pset3.
+
+### Day 17: September 8, 2018
+#### :mortar_board: Learning & Learning to read Music?
+
+**Today's Progress:** Started the data structures basics on FCC and the CS50's Pset3, there's a lot to grasp on this one. Frist of all I'm learning to read music hahah
