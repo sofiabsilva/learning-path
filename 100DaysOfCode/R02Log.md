@@ -104,3 +104,8 @@ But I don't think my solution is good. Cracking some simple passwords was fast (
 #### :mortar_board: Learning & Learning to read Music?
 
 **Today's Progress:** Started the data structures basics on FCC and the CS50's Pset3, there's a lot to grasp on this one. Frist of all I'm learning to read music hahah
+
+### Day 18: September 9, 2018
+#### :mortar_board: Problem Solving
+
+**Today's Progress:** Continuing Pset3, this one is gonna be hard.
