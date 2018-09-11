@@ -116,3 +116,8 @@ But I don't think my solution is good. Cracking some simple passwords was fast (
 **Today's Progress:** Continuing Pset3. 
 
 **Thoughts:** Just realised I won't be finishing this course by the end of this second round of #100DaysofCode, with my current pace, specially since the problems keep getting harder. I hadn't even thought about the time it would take me, just thought for sure 100 days would be more than enough but there's no way.
+
+### Day 20: September 11, 2018
+#### :mortar_board: Learning
+
+**Today's Progress:** Did some freecodecamp data structures challenges.
