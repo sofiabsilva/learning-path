@@ -120,4 +120,10 @@ But I don't think my solution is good. Cracking some simple passwords was fast (
 ### Day 20: September 11, 2018
 #### :mortar_board: Learning
 
-**Today's Progress:** Did some freecodecamp data structures challenges.
+**Today's Progress:** Did some freecodecamp data structures challenges. 
+Not sure if I managed to get an hour today...
+
+### Day 21: September 12, 2018
+#### :mortar_board: Problem Solving
+
+**Today's Progress:** Completed Pset3! Making music with code... This blew my mind a little bit! 
