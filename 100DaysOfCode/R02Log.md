@@ -127,3 +127,15 @@ Not sure if I managed to get an hour today...
 #### :mortar_board: Problem Solving
 
 **Today's Progress:** Completed Pset3! Making music with code... This blew my mind a little bit! 
+
+### Day 22: September 13, 2018
+#### :mortar_board: Learning
+
+**Today's Progress:** CS50 continued: Assisted the 4th lecture and shorts with explanations of Call Stacks (really undestood how recursion works with this) and Pointers.
+
+**Thoughts:** This lesson and videos made me go Aha! many times, there were so many things covered here that I had been seeing for a bit but not understanding them fully. All my love to the professor David J. Malan and Doug Lloyd who explain things so amazingly well.
+
+### Day 23: September 14, 2018
+#### :mortar_board: Learning & Problem Solving
+
+**Today's Progress:** CS50 continued: watched shorts with explanations of Dynamic Memory Allocation, File Pointers and Hexadecimal system. Started looking into Pset4. 
