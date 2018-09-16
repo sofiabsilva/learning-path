@@ -139,3 +139,13 @@ Not sure if I managed to get an hour today...
 #### :mortar_board: Learning & Problem Solving
 
 **Today's Progress:** CS50 continued: watched shorts with explanations of Dynamic Memory Allocation, File Pointers and Hexadecimal system. Started looking into Pset4. 
+
+### Day 24: September 15, 2018
+#### :mortar_board: Learning & Problem Solving
+
+**Today's Progress:** Trying to figure out answers for questions in Pset4. Learning about what files are really composed of and understanding how a copy of a file is made (confusing as of now) . 
+
+### Day 25: September 16, 2018
+#### :mortar_board: Learning & Problem Solving
+
+**Today's Progress:** Answered the remaining questions I had for the first part of the problem now onto making a program that will allow me to figure out "Whodunit" by revealing a hidden message in a BMP.
