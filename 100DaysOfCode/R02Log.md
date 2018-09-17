@@ -149,3 +149,10 @@ Not sure if I managed to get an hour today...
 #### :mortar_board: Learning & Problem Solving
 
 **Today's Progress:** Answered the remaining questions I had for the first part of the problem now onto making a program that will allow me to figure out "Whodunit" by revealing a hidden message in a BMP.
+
+### Day 26: September 17, 2018
+#### :mortar_board: Learning
+
+**Today's Progress:** FreeCodeCamp day! Continuing with Basic Data Structures, most things are revision. 
+
+**Thoughts:** Probably gonna have to miss a day tomorrow because I'll be travelling and away all day, probably no internet connection for soloLearn but we'll see.
