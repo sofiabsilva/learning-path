@@ -156,3 +156,10 @@ Not sure if I managed to get an hour today...
 **Today's Progress:** FreeCodeCamp day! Continuing with Basic Data Structures, most things are revision. 
 
 **Thoughts:** Probably gonna have to miss a day tomorrow because I'll be travelling and away all day, probably no internet connection for soloLearn but we'll see.
+
+### Day 27: September 19, 2018
+#### :mortar_board: Learning
+
+**Today's Progress:** Figured out whodunit! Started working on the next problem: resize a BMP image.
+
+**Thoughts:** Yesterday I tried using soloLearn to code by my phone couldn't handle the code playground :( I was trying to solve my first challenge in the C language outside of CS50.
