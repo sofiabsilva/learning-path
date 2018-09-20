@@ -158,8 +158,15 @@ Not sure if I managed to get an hour today...
 **Thoughts:** Probably gonna have to miss a day tomorrow because I'll be travelling and away all day, probably no internet connection for soloLearn but we'll see.
 
 ### Day 27: September 19, 2018
-#### :mortar_board: Learning
+#### :mortar_board: Problem Solving
 
 **Today's Progress:** Figured out whodunit! Started working on the next problem: resize a BMP image.
 
 **Thoughts:** Yesterday I tried using soloLearn to code by my phone couldn't handle the code playground :( I was trying to solve my first challenge in the C language outside of CS50.
+
+### Day 28: September 20, 2018
+#### :mortar_board: Problem Solving
+
+**Today's Progress:** Continuing the resize program, from Pset4. 
+**Thoughts:** I spent so long trying to solve a problem I didn't have on this program, what a small distraction/misinterpretation can do... 
+Oh and my laptop's wifi is driving me crazy, my connection keeps failing without any apparent reason :(
