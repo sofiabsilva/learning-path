@@ -168,5 +168,13 @@ Not sure if I managed to get an hour today...
 #### :mortar_board: Problem Solving
 
 **Today's Progress:** Continuing the resize program, from Pset4. 
+
 **Thoughts:** I spent so long trying to solve a problem I didn't have on this program, what a small distraction/misinterpretation can do... 
 Oh and my laptop's wifi is driving me crazy, my connection keeps failing without any apparent reason :(
+
+### Day 29: September 21, 2018
+#### :mortar_board: Problem Solving
+
+**Today's Progress:** I did it!!!!!!!!!! Succesfully wrote a program that enlarges a bmp file. One more problem to be done with this Pset!
+
+**Thoughts:** This was a very tough one, hardest one yet. There were many things to learn and really understand to make it work. But I feel very acomplished now that I got it to work and understand everything! 
