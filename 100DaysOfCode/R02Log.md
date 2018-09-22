@@ -178,3 +178,8 @@ Oh and my laptop's wifi is driving me crazy, my connection keeps failing without
 **Today's Progress:** I did it!!!!!!!!!! Succesfully wrote a program that enlarges a bmp file. One more problem to be done with this Pset!
 
 **Thoughts:** This was a very tough one, hardest one yet. There were many things to learn and really understand to make it work. But I feel very acomplished now that I got it to work and understand everything! 
+
+### Day 30: September 22, 2018
+#### :mortar_board: Problem Solving
+
+**Today's Progress:** Working on the inital process of solving the last problem on CS50's Pset4, the "Recover" program. This one is really cool, it will be recovering deleted JPEG images from a memory card image!
