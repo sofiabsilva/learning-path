@@ -183,3 +183,8 @@ Oh and my laptop's wifi is driving me crazy, my connection keeps failing without
 #### :mortar_board: Problem Solving
 
 **Today's Progress:** Working on the inital process of solving the last problem on CS50's Pset4, the "Recover" program. This one is really cool, it will be recovering deleted JPEG images from a memory card image!
+
+### Day 31: September 23, 2018
+#### :mortar_board: Problem Solving
+
+**Today's Progress & Thoughts:** CS50 ide isn't working properly all day and I've been trying to debug my code for this Recover program. Which I feel like I'm almost done with. It's so frustrating I can't test it already!
