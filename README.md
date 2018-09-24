@@ -78,11 +78,13 @@
       - [x] Week 0: Loved the first lecture and already got to learn about a bunch of conceps, like what Binary and ASCII are actually.
          - **Pset0**: For the 1st problem set I made this little Harry Potter game (of course) ["Survive the Dementors"](https://scratch.mit.edu/projects/239435007/) using Scratch! I wish I would have found this programming language as a kid...
       
-      - [ ] Week 1: Introduction to C! Also learned about compiling and memory overflow. In the 2nd lecture, there was a lot about arrays and cryptography.
+      - [x] Week 1: Introduction to C! Also learned about compiling and memory overflow. In the 2nd lecture, there was a lot about arrays and cryptography.
          - **Pset1**: Some of the Pset1 problems were challenging, specially the last one in which I had to write a program that would get a credit card number input and output if the card is valid and the CC company it belongs to. Very cool stuff! Gimmie more!
          - **Pset2**: Cryptography problems. pretty cool ones! The most challenging one was to figure out how to crack passwords (I did it but surely not using the best method. Hopefully will learn a better way to do it in future lessons).
       
-      - [ ] Week 2
+      - [x] Week 2 : Computational Complexibility and algorithms. Recursive functions are a whole new world.
+          - **Pset3**: Learned to read music and write a program that takes machine readable notes to actually make music with code. We had source code for this one, a lot of things to understand before starting to convert the musical notes to frequencies and synthetise the music. This blew my mind a little bit!
+          
       - [ ] Week 3
       - [ ] Week 4
       - [ ] Week 5
