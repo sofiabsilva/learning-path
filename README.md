@@ -62,17 +62,24 @@
       - [Key Sequence Direction](https://codepen.io/Tubbie/full/djJjwM)
       - [Slide in on Scroll](https://codepen.io/Tubbie/full/BPYwJX)
       
-# Currently
-  - Continuing the [#JavaScript30](https://javascript30.com/) challenge
-  - Learning Regular Expressions on FreeCodeCamp
-  - Doing the Harvard CS50's Introduction to Computer Science on EdX. It's been reccomended to me, and I needed something to get excited about right now, so there we go! I hope it's not too much to be learning intermediate/advanced JS and other languages that will be taught like C and Python at the same time... We'll see, if it's too much I'll pause it and continue focusing on JS.
-  
-      ## Projects and Skills aquired
-      - [Local Storage & Event Delegation](https://codepen.io/Tubbie/full/MBXazo)
-      - [Mouse Shadow](https://codepen.io/Tubbie/full/varXZE/)
-      - [Sort Band Names](https://codepen.io/Tubbie/full/djKEpM)
-      
+# August 2018
+         
    - On August 9th finished the #100DaysOfCode challenge, where I've posted on [this](https://github.com/sofiabsilva/100-days-of-code/blob/master/log.md) repo about what I've been doing each day and also [tweeting](https://twitter.com/TubbieHead) about my thoughts and progress with the challenge hashtag. 
+     - Continued [#JavaScript30](https://javascript30.com/). It's been paused on Day 17 though
+     - Learning Regular Expressions on FreeCodeCamp
+     - Started Harvard's CS50 course on Edx (progress bellow)!
+     - On August 23rd I started the 2nd round of #100DaysOfCode, I'm logging my progress [here](https://github.com/sofiabsilva/learning-path/blob/master/100DaysOfCode/R02Log.md). Not so much on twitter this time to see if I can manage my time better... Social media = Time sucker. But good for connecting... Let's see how this round goes.
+   
+   ## Projects and Skills aquired
+   - [Local Storage and Event Delegation](https://codepen.io/Tubbie/full/MBXazo)
+   - [Shadow Following Mouse](https://codepen.io/Tubbie/full/varXZE)
+   - [Sort Band Names Without Articles](https://codepen.io/Tubbie/full/djKEpM)
+   - Learning the C language and Computer Science basics
+      
+# Currently
+  - #100DaysOfCode round 2.
+  - Debugging, Basic Data Structures and Basic Algorithms on FreeCodeCamp
+  - Doing the Harvard CS50's Introduction to Computer Science on EdX. It's been reccomended to me, and I needed something to get excited about right now, so there we go! I hope it's not too much to be learning intermediate/advanced JS and other languages that will be taught like C and Python at the same time... We'll see, if it's too much I'll pause it and continue focusing on JS.
    
       ### CS50
       - [x] Week 0: Loved the first lecture and already got to learn about a bunch of conceps, like what Binary and ASCII are actually.
@@ -98,4 +105,4 @@
 # Next Steps
    - Get Tubbie Arts website live and market it 
    - Take more advanced Udacity JS courses
-   - Start working on the FreeCodeCamp algorithm challenges and JS projects. Exciting times!
+   - Complete Front End Dev certification on Free Code Camp
