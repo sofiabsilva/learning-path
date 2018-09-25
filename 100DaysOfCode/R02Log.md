@@ -193,3 +193,8 @@ Oh and my laptop's wifi is driving me crazy, my connection keeps failing without
 #### :mortar_board: Learning & Problem Solving
 
 **Today's Progress & Thoughts:** Since the CS50 IDE is still not responding/loading my file, I'm gonna give it a day to rest and fix itself - Already e-mailed the cloud9 support to see if they can do anything to help my case. Hopefully I can keep going with the Pset4 tomorrow and submit it! Fingers crossed. Meanwhile, I finished the basic data structures FCC challenges and am now working on the Basic Algorithm Scripting challenges (I've been eager to start these).
+
+### Day 33: September 25, 2018
+#### :mortar_board: Learning & Problem Solving
+
+**Today's Progress:** Continued doing the basic Algorithm challenges on FCC.
