@@ -20,3 +20,10 @@ function bouncer(arr) {
 
 // Testing
 bouncer([7, "ate", "", false, 9]);
+
+
+// Solution using filter: 
+
+function bouncer(arr) {
+  return arr.filter(Boolean);
+}
