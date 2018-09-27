@@ -203,3 +203,7 @@ Oh and my laptop's wifi is driving me crazy, my connection keeps failing without
 #### :mortar_board: Problem Solving
 
 **Today's Progress:** More algorithms on FCC and no response from CS50 or Cloud 9 staff yet.  
+
+### Day 35: September 27, 2018
+#### :mortar_board: Problem Solving
+**Today's Progress:** Spent hours doing one algorithm challenge. And finally understood how to get my CS50 IDE to work again :D I had created too many jpgs accidently with the recover program while debugging.
