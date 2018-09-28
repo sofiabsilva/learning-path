@@ -207,3 +207,8 @@ Oh and my laptop's wifi is driving me crazy, my connection keeps failing without
 ### Day 35: September 27, 2018
 #### :mortar_board: Problem Solving
 **Today's Progress:** Spent hours doing one algorithm challenge. And finally understood how to get my CS50 IDE to work again :D I had created too many jpgs accidently with the recover program while debugging.
+
+### Day 36: September 28, 2018
+#### :mortar_board: Problem Solving & Learning
+
+**Today's Progress:** Spent hours with one algorithm again, but hey I completed the whole section! On to Object Oriented Programming on FCC.
