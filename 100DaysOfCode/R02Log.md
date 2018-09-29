@@ -211,4 +211,9 @@ Oh and my laptop's wifi is driving me crazy, my connection keeps failing without
 ### Day 36: September 28, 2018
 #### :mortar_board: Problem Solving & Learning
 
-**Today's Progress:** Spent hours with one algorithm again, but hey I completed the whole section! On to Object Oriented Programming on FCC.
+**Today's Progress:** Spent hours with one algorithm again, but hey I completed the whole section! On to Object Oriented Programming on FCC. Fixed the "CS50 ide" problem!
+
+### Day 37: September 29, 2018
+#### :mortar_board: Problem Solving
+
+**Today's Progress:** I'm finally able to work on the CS50 Recover program, and after a bunch of tries and chaning up my code I finally recovered the pictures :') They all show up correctly (from what I can see at least) but my code doesn't pass one of the check50 tests. FML. Already posted my code to reddit and waiting for someone to shed some light... I really don't get why it's not passing. 
