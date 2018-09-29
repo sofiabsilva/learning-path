@@ -217,3 +217,4 @@ Oh and my laptop's wifi is driving me crazy, my connection keeps failing without
 #### :mortar_board: Problem Solving
 
 **Today's Progress:** I'm finally able to work on the CS50 Recover program, and after a bunch of tries and chaning up my code I finally recovered the pictures :') They all show up correctly (from what I can see at least) but my code doesn't pass one of the check50 tests. FML. Already posted my code to reddit and waiting for someone to shed some light... I really don't get why it's not passing. 
+- Update! Got it, asking for help on reddit was a good idea :) Pset4 is now submitted. 
