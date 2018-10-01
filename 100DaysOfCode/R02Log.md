@@ -222,4 +222,9 @@ Oh and my laptop's wifi is driving me crazy, my connection keeps failing without
 ### Day 38: September 30, 2018
 #### :mortar_board: Learning
 
-**Today's Progress:** Watched CS50's Lecture 5, for week 4. Reviewing/deeper dive on concepts learned through practice and the shorts for week 3 (structs, memory allocation, buffers). Also learning about data structures, stacks and queues (where the stack overflow name comes from!) and trees.
+**Today's Progress:** Watched CS50's Lecture 5, for week 4. Reviewing/deeper dive on concepts learned through practice and the shorts for week 3 (structs, memory allocation, buffers). Also learning about data structures, stacks and queues (where the stack overflow name comes from!).
+
+### Day 39: October 1, 2018
+#### :mortar_board: Learning
+
+**Today's Progress & Thoughts::** Continued lecture 5 and started watching the shorts, I couldn't finish the lecture yesterday because I kept pausing and lowering the speed to try understanding things better. There were some concepts here that were quite difficult to get but I'm sure with the help of the rest of the material (like the notes, shorts and Pset5 itself) I'm gonna be fine! Using structures and linked lists of nodes were the most challenging for me to understand. 
