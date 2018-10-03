@@ -227,4 +227,14 @@ Oh and my laptop's wifi is driving me crazy, my connection keeps failing without
 ### Day 39: October 1, 2018
 #### :mortar_board: Learning
 
-**Today's Progress & Thoughts::** Continued lecture 5 and started watching the shorts, I couldn't finish the lecture yesterday because I kept pausing and lowering the speed to try understanding things better. There were some concepts here that were quite difficult to get but I'm sure with the help of the rest of the material (like the notes, shorts and Pset5 itself) I'm gonna be fine! Using structures and linked lists of nodes were the most challenging for me to understand. 
+**Today's Progress & Thoughts:** Continued lecture 5 and started watching the shorts, I couldn't finish the lecture yesterday because I kept pausing and lowering the speed to try understanding things better. There were some concepts here that were quite difficult to get but I'm sure with the help of the rest of the material (like the notes, shorts and Pset5 itself) I'm gonna be fine! Using structures and linked lists of nodes were the most challenging for me to understand. 
+
+### Day 40: October 2, 2018
+#### :mortar_board: Learning
+
+**Today's Progress:** Watched some of the shorts for week 4. Deeper look at Structures, linked-lists and hash tables.
+
+### Day 41: October 3, 2018
+#### :mortar_board: Learning
+
+**Today's Progress:** Completed the shorts material for week 4. Learning more about stacks, tries, queues and the ways of  manipulating them. This is definitely going to be a long week (+).
