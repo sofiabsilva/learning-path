@@ -238,3 +238,8 @@ Oh and my laptop's wifi is driving me crazy, my connection keeps failing without
 #### :mortar_board: Learning
 
 **Today's Progress:** Completed the shorts material for week 4. Learning more about stacks, tries, queues and the ways of  manipulating them. This is definitely going to be a long week (+).
+
+### Day 42: October 4, 2018
+#### :mortar_board: Prepping
+
+**Today's Progress:** Read the source code Pset5, spell checker and started answering some questions.
