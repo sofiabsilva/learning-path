@@ -92,7 +92,9 @@
       - [x] Week 2 : Computational Complexibility and algorithms. Recursive functions are a whole new world.
           - **Pset3**: Learned to read music and write a program that takes machine readable notes to actually make music with code. We had source code for this one, a lot of things to understand before starting to convert the musical notes to frequencies and synthetise the music. This blew my mind a little bit!
           
-      - [ ] Week 3
+      - [x] Week 3 : Pointers and file pointers, dynamic memory allocation, call stacks, the hexadecimal system, what image files are and how they stay in memory after deletion - Intro to Digital forensics!
+         - **Pset4**: Digital forensics problems and image manipulation.Learned a lot about custom structures and data types and file pointers with this Pset. It was so hard but rewarding. We had to manipulate a BMP image to discover "whodunit" a hidden phrase in a image full of red pixels. Figure out how to resize an image and recover deleted jpgs from a memory card. 
+         
       - [ ] Week 4
       - [ ] Week 5
       - [ ] Week 6
