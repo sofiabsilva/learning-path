@@ -243,3 +243,8 @@ Oh and my laptop's wifi is driving me crazy, my connection keeps failing without
 #### :mortar_board: Prepping
 
 **Today's Progress:** Read the source code Pset5, spell checker and started answering some questions.
+
+### Day 43: October 5, 2018
+#### :mortar_board: Answering Questions & Prepping
+
+**Today's Progress:** Completed the questions for Pset5. Started thinking about how to solve the problem itself.
