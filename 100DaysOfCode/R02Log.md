@@ -248,3 +248,8 @@ Oh and my laptop's wifi is driving me crazy, my connection keeps failing without
 #### :mortar_board: Answering Questions & Prepping
 
 **Today's Progress:** Completed the questions for Pset5. Started thinking about how to solve the problem itself.
+
+### Day 44: October 6, 2018
+#### :mortar_board: Problem Solving
+
+**Today's Progress:** Sort of loosing my mind with this Pset... I feel like this is going to take forever. But oh well, selected a hash function to use for the dictionary and started writing some code with the help of the walkthrough, but I don't feel confortable at all with it. Let the debugging begin.
