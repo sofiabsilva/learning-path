@@ -253,3 +253,8 @@ Oh and my laptop's wifi is driving me crazy, my connection keeps failing without
 #### :mortar_board: Problem Solving
 
 **Today's Progress:** Sort of loosing my mind with this Pset... I feel like this is going to take forever. But oh well, selected a hash function to use for the dictionary and started writing some code with the help of the walkthrough, but I don't feel confortable at all with it. Let the debugging begin.
+
+### Day 45: October 7, 2018
+#### :mortar_board: Problem Solving
+
+**Today's Progress:** Didn't make much progress. Just trying to figure things out but my code still doesn't compile... I think the issue is that I'm not understanding pointers and file pointers well enough. Gotta go back and re-read and re-watch material to see if any lightbulb goes off...
