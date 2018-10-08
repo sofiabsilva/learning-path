@@ -258,3 +258,6 @@ Oh and my laptop's wifi is driving me crazy, my connection keeps failing without
 #### :mortar_board: Problem Solving
 
 **Today's Progress:** Didn't make much progress. Just trying to figure things out but my code still doesn't compile... I think the issue is that I'm not understanding pointers and file pointers well enough. Gotta go back and re-read and re-watch material to see if any lightbulb goes off...
+
+Day 46:
+compiled the code sucessfully... that's about it as far as progress goes
