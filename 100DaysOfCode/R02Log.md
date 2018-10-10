@@ -265,6 +265,11 @@ Oh and my laptop's wifi is driving me crazy, my connection keeps failing without
 **Today's Progress:** Finally was able to compile the code sucessfully... That's about it as far as progress goes.
 
 ### Day 47: October 8, 2018
-#### :mortar_board: Problem Solving
+#### :mortar_board: Problem Solving & Learning
 
 **Today's Progress & Thoughts:** I'm so lost- The code is still super buggy (for the Load() function) and I'm not sure how to make it work. To clear up my mind I continued with the Object Oriented Programming part on FCC.
+
+### Day 48: October 9, 2018
+#### :mortar_board: Learning
+
+**Today's Progress:** Continued learning Object Oriented Programming on FCC.
