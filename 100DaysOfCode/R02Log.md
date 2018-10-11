@@ -264,12 +264,17 @@ Oh and my laptop's wifi is driving me crazy, my connection keeps failing without
 
 **Today's Progress:** Finally was able to compile the code sucessfully... That's about it as far as progress goes.
 
-### Day 47: October 8, 2018
+### Day 47: October 9, 2018
 #### :mortar_board: Problem Solving & Learning
 
 **Today's Progress & Thoughts:** I'm so lost- The code is still super buggy (for the Load() function) and I'm not sure how to make it work. To clear up my mind I continued with the Object Oriented Programming part on FCC.
 
-### Day 48: October 9, 2018
+### Day 48: October 10, 2018
 #### :mortar_board: Learning
 
 **Today's Progress:** Continued learning Object Oriented Programming on FCC.
+
+### Day 49: October 11, 2018
+#### :mortar_board: Problem Solving
+
+**Today's Progress:** Got some courage back to continue with Pset5, I finally figured out what my "problem" was with the `load()` function, the problem is that I thought the dictionary I was using had all the words in my text and it actually only had 2 of them, which was what I was getting when running the code. So it was correct! I'm not working on the `check()` function.
