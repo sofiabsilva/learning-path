@@ -278,3 +278,9 @@ Oh and my laptop's wifi is driving me crazy, my connection keeps failing without
 #### :mortar_board: Problem Solving
 
 **Today's Progress:** Got some courage back to continue with Pset5, I finally figured out what my "problem" was with the `load()` function, the problem is that I thought the dictionary I was using had all the words in my text and it actually only had 2 of them, which was what I was getting when running the code. So it was correct! I'm not working on the `check()` function.
+
+### Day 50: October 12, 2018
+#### :mortar_board: Problem Solving
+
+**Today's Progress:** Already halfway!! 
+So, looks like my `check()` implementation works! But after writing code for `unload()` and running valgrind there appears to be a problem when running it with the large (full) dictionary. Looks like I'm trying to use 8 bytes of memory (I think it's a pointer) that I shouldn't be. But I don't understand why! So after getting stuck again, Free Code Camp is my friend (finishing up the section for object oriented js). 
