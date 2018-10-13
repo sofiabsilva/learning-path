@@ -284,3 +284,8 @@ Oh and my laptop's wifi is driving me crazy, my connection keeps failing without
 
 **Today's Progress:** Already halfway!! 
 So, looks like my `check()` implementation works! But after writing code for `unload()` and running valgrind there appears to be a problem when running it with the large (full) dictionary. Looks like I'm trying to use 8 bytes of memory (I think it's a pointer) that I shouldn't be. But I don't understand why! So after getting stuck again, Free Code Camp is my friend (finishing up the section for object oriented js). 
+
+### Day 51: October 13, 2018
+#### :mortar_board: Problem Solving
+
+**Today's Progress:** absolutely stuck all day. Not much progress. Ended up posting on reddit for some clues on how to get the unload() function to work.
