@@ -288,4 +288,9 @@ So, looks like my `check()` implementation works! But after writing code for `un
 ### Day 51: October 13, 2018
 #### :mortar_board: Problem Solving
 
-**Today's Progress:** absolutely stuck all day. Not much progress. Ended up posting on reddit for some clues on how to get the unload() function to work.
+**Today's Progress:** Absolutely stuck all day. Not much progress. Ended up posting on reddit for some clues on how to get the unload() function to work.
+
+### Day 52: October 14, 2018
+#### :mortar_board: Problem Solving
+
+**Today's Progress:** Changed some minor things in my code but I'm still getting the same error in relation to memory allocation :( According to check50 that's the only problem with my code. It's not a surprise since this is definitely the most abstract to me, as I can't see exactly what's going on I find it hard to understand.
