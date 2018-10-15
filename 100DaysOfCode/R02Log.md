@@ -294,3 +294,8 @@ So, looks like my `check()` implementation works! But after writing code for `un
 #### :mortar_board: Problem Solving
 
 **Today's Progress:** Changed some minor things in my code but I'm still getting the same error in relation to memory allocation :( According to check50 that's the only problem with my code. It's not a surprise since this is definitely the most abstract to me, as I can't see exactly what's going on I find it hard to understand.
+
+### Day 53: October 15, 2018
+#### :mortar_board: Problem Solving
+
+**Today's Progress:** DONE! Finally got it. With help of a kind reddit user! I was as always, over complicating. 
