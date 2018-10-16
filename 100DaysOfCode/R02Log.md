@@ -301,6 +301,6 @@ So, looks like my `check()` implementation works! But after writing code for `un
 **Today's Progress:** DONE! Finally got it. With help of a kind reddit user! I was as always, over complicating. 
 
 ### Day 54: October 16, 2018
-#### :mortar_board: Problem Solving
+#### :mortar_board: Learning
 
-**Today's Progress:** CS50's Week 5 here we are. Lecture is an intro to how the internet works and web development. A much more familiar subject to me but still learning a lot about the back-end part of it.
+**Today's Progress:** CS50's Week 5 here we are. Lecture is an intro to how the internet works and web development. A much more familiar subject to me but still learning a lot about the server side.
