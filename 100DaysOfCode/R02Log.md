@@ -304,3 +304,8 @@ So, looks like my `check()` implementation works! But after writing code for `un
 #### :mortar_board: Learning
 
 **Today's Progress:** CS50's Week 5 here we are. Lecture is an intro to how the internet works and web development. A much more familiar subject to me but still learning a lot about the server side.
+
+### Day 55: October 17, 2018
+#### :mortar_board: Learning
+
+**Today's Progress:** Done with Week 5 of CS50, since there are no problem sets to work on. Watched the shorts, to consolidate knowledge on the internet in general, IP, TCP and HTTP.
