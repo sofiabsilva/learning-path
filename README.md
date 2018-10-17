@@ -95,7 +95,9 @@
       - [x] Week 3 : Pointers and file pointers, dynamic memory allocation, call stacks, the hexadecimal system, what image files are and how they stay in memory after deletion - Intro to Digital forensics!
          - **Pset4**: Digital forensics problems and image manipulation.Learned a lot about custom structures and data types and file pointers with this Pset. It was so hard but rewarding. We had to manipulate a BMP image to discover "whodunit" a hidden phrase in a image full of red pixels. Figure out how to resize an image and recover deleted jpgs from a memory card. 
          
-      - [ ] Week 4
+      - [x] Week 4 : How to work with huge ammounts of data - Hashtables (with linked lists), Tries. More on data structures, custom types, stacks and queues. 
+         - **Pset4**: Spell checking, using memory allocated dictionary (implementing a load() function), checking whether the words in a text exist in that dictionary, and do it fast! Then unloading the dictionary from memory (and avoiding memory leaks). This one was so hard! Took me a long time to understand how a hashtable, an array of linked lists worked, coding wise. I was understanding the theory but couldn't put it into code correctly when implementing the load() function. I had some help from reddit, a few clues made me rethink my reasoning and finally - no more memory problems.
+         
       - [ ] Week 5
       - [ ] Week 6
       - [ ] Week 7
