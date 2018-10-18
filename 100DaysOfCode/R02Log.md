@@ -293,7 +293,7 @@ So, looks like my `check()` implementation works! But after writing code for `un
 ### Day 52: October 14, 2018
 #### :mortar_board: Problem Solving
 
-**Today's Progress:** Changed some minor things in my code but I'm still getting the same error in relation to memory allocation :( According to check50 that's the only problem with my code. It's not a surprise since this is definitely the most abstract to me, as I can't see exactly what's going on I find it hard to understand.
+**Today's Progress & Thoughts:** Changed some minor things in my code but I'm still getting the same error in relation to memory allocation :( According to check50 that's the only problem with my code. It's not a surprise since this is definitely the most abstract to me, as I can't see exactly what's going on I find it hard to understand.
 
 ### Day 53: October 15, 2018
 #### :mortar_board: Problem Solving
@@ -309,3 +309,11 @@ So, looks like my `check()` implementation works! But after writing code for `un
 #### :mortar_board: Learning
 
 **Today's Progress:** Done with Week 5 of CS50, since there are no problem sets to work on. Watched the shorts, to consolidate knowledge on the internet in general, IP, TCP and HTTP.
+
+### Day 56: October 18, 2018
+#### :mortar_board: Learning
+
+**Today's Progress:** Assisted lectures for week 6, part 1 - about Dynamic Programming (Yale) and part 2 - Python Basics (Harvard). 
+
+**Thoughts:** Since there were no Psets or shorts for week 6 I was able to fit everything in a couple of hours, which compensates for how long it took to solve some of the problem sets I guess. 
+Python so far, although "simpler" it's quite different from what I was used to in C and JavaScript so it's gonna take some adjusting time for sure. Excited regardless!
