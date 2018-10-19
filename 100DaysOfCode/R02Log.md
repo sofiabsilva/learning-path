@@ -317,3 +317,8 @@ So, looks like my `check()` implementation works! But after writing code for `un
 
 **Thoughts:** Since there were no Psets or shorts for week 6 I was able to fit everything in a couple of hours, which compensates for how long it took to solve some of the problem sets I guess. 
 Python so far, although "simpler" it's quite different from what I was used to in C and JavaScript so it's gonna take some adjusting time for sure. Excited regardless!
+
+### Day 57: October 19, 2018
+#### :mortar_board: Contributing
+
+**Today's Progress:** Signed up for Hacktoberfest, and did my first pull requests to Free Code Camp, helping to fix portuguese translations. So not really coding today, but it's something coding related.
