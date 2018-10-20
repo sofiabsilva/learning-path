@@ -322,3 +322,8 @@ Python so far, although "simpler" it's quite different from what I was used to i
 #### :mortar_board: Contributing
 
 **Today's Progress:** Signed up for Hacktoberfest, and did my first pull requests to Free Code Camp, helping to fix portuguese translations. So not really coding today, but it's something coding related.
+
+### Day 58: October 20, 2018
+#### :mortar_board: Learning
+
+**Today's Progress:** CS50 Week 7 - Assisted part of the lecture. Continuing to learn Python and how to use it in a web server.
