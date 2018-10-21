@@ -327,3 +327,8 @@ Python so far, although "simpler" it's quite different from what I was used to i
 #### :mortar_board: Learning
 
 **Today's Progress:** CS50 Week 7 - Assisted part of the lecture. Continuing to learn Python and how to use it in a web server.
+
+### Day 59: October 21, 2018
+#### :mortar_board: Learning
+
+**Today's Progress:** Continuing learning Python, and Flask. Watching the shorts material for Week 7. 
