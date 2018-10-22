@@ -332,3 +332,6 @@ Python so far, although "simpler" it's quite different from what I was used to i
 #### :mortar_board: Learning
 
 **Today's Progress:** Continuing learning Python, and Flask. Watching the shorts material for Week 7. 
+
+day 60
+pset 6 similarities (inplementing the first few c psets in python this time
