@@ -333,5 +333,12 @@ Python so far, although "simpler" it's quite different from what I was used to i
 
 **Today's Progress:** Continuing learning Python, and Flask. Watching the shorts material for Week 7. 
 
-day 60
-pset 6 similarities (inplementing the first few c psets in python this time
+### Day 60: October 22, 2018
+#### :mortar_board: Problem solving
+
+**Today's Progress:** Started working on Pset 6 "sentimental" (implementing the first few Psets written in C in python this time.
+
+### Day 61: October 23, 2018
+#### :mortar_board: Problem solving
+
+**Today's Progress:** Done with the "sentimental part" now onto the new problem to be written in Python, "similarities" of Pset 6. A program that compares two files for similarities and highlights them.
