@@ -342,3 +342,8 @@ Python so far, although "simpler" it's quite different from what I was used to i
 #### :mortar_board: Problem solving
 
 **Today's Progress:** Done with the "sentimental part" now onto the new problem to be written in Python, "similarities" of Pset 6. A program that compares two files for similarities and highlights them.
+
+### Day 62: October 24, 2018
+#### :mortar_board: Problem solving
+
+**Today's Progress:** Done with Pset6. Similaries was quite easy to implement, surprisingly! Only had to read through documentation and think a little bit. I think I'm gonna try doing the "more comfortable" version of similarities too.
