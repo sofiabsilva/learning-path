@@ -347,3 +347,8 @@ Python so far, although "simpler" it's quite different from what I was used to i
 #### :mortar_board: Problem solving
 
 **Today's Progress:** Done with Pset6. Similaries was quite easy to implement, surprisingly! Only had to read through documentation and think a little bit. I think I'm gonna try doing the "more comfortable" version of similarities too.
+
+### Day 63: October 24, 2018
+#### :mortar_board: Learning
+
+**Today's Progress:** Absorving Week 8 lecture's information on Cookies and databases (SQL).
