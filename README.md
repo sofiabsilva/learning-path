@@ -96,12 +96,15 @@
          - **Pset4**: Digital forensics problems and image manipulation.Learned a lot about custom structures and data types and file pointers with this Pset. It was so hard but rewarding. We had to manipulate a BMP image to discover "whodunit" a hidden phrase in a image full of red pixels. Figure out how to resize an image and recover deleted jpgs from a memory card. 
          
       - [x] Week 4 : How to work with huge ammounts of data - Hashtables (with linked lists), Tries. More on data structures, custom types, stacks and queues. 
-         - **Pset4**: Spell checking, using memory allocated dictionary (implementing a load() function), checking whether the words in a text exist in that dictionary, and do it fast! Then unloading the dictionary from memory (and avoiding memory leaks). This one was so hard! Took me a long time to understand how a hashtable, an array of linked lists worked, coding wise. I was understanding the theory but couldn't put it into code correctly when implementing the load() function. I had some help from reddit, a few clues made me rethink my reasoning and finally - no more memory problems.
+         - **Pset5**: Spell checking, using memory allocated dictionary (implementing a load() function), checking whether the words in a text exist in that dictionary, and do it fast! Then unloading the dictionary from memory (and avoiding memory leaks). This one was so hard! Took me a long time to understand how a hashtable, an array of linked lists worked, coding wise. I was understanding the theory but couldn't put it into code correctly when implementing the load() function. I had some help from reddit, a few clues made me rethink my reasoning and finally - no more memory problems.
          
-      - [ ] Week 5
-      - [ ] Week 6
-      - [ ] Week 7
-      - [ ] Week 8
+      - [x] Week 5 : Starting to go into the internet world! Internet Primer, IP addressess,  TCP, HTTP and Web development intro.
+      - [x] Week 6 : A different professor (from Yale this time) taught Dynamic Programming and Network routing. This lecture was a bit hard on my brain but looked up some outside material to understand the dynamic programming concepts a little bit better. The second half of week 6 was the Python Basics class.
+      
+      - [x] Week 7 : Python continued. Learned about servers and how to use python and Flask in Web development.
+         - **Pset6**: The challenges were to write the same programs that we had written in ealier Psets for C this time in Python. And "similarities" which is also written in python and used to compare two files submited via a web form (html page) using a chosen algorithm: Compare lines, sentences and substrings of n. I found this Pset easier, it was basically just reading python documentation which was really helpful and easy to understand.
+         
+      - [ ] Week 8 : in progress
       - [ ] Week 9
       - [ ] Week 10
       - [ ] Week 11
