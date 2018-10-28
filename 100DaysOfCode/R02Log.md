@@ -357,3 +357,9 @@ Python so far, although "simpler" it's quite different from what I was used to i
 #### :mortar_board: Learning
 
 **Today's Progress:** Consuming the rest of CS50's week 8 lecture and short videos. 
+
+### Day 65: October 28, 2018
+#### :mortar_board: Learning
+
+**Today's Progress:** Missed a day yesterday due to travel. Also my dog got sick and is now at the vet hospital :(
+I'm picking up where I left it on, a SQL video from CS50's side material. And started looking into Pset 7.
