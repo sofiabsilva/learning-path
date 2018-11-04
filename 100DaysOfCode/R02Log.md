@@ -361,8 +361,17 @@ Python so far, although "simpler" it's quite different from what I was used to i
 ### Day 65: October 28, 2018
 #### :mortar_board: Learning
 
-**Today's Progress:** Missed a day yesterday due to travel. Also my dog got sick and is now at the vet hospital :(
+**Today's Progress:** Missed a day yesterday due to travel. Also my dog got sick (acute pancreatitis) and is now at the vet hospital :(
 I'm picking up where I left it on, a SQL video from CS50's side material. And started looking into Pset 7.
 
-day 66
-learning about the stock market. starting pset7. finance 
+### Day 66: October 29, 2018
+#### :mortar_board: Learning
+**Today's Progress:** Learning about the stock market. Starting pset7 "Finance".
+
+### October 30, 2018
+#### RIP Pipo
+My dog passed away this day. I stopped the challenge because I couldn't bring myself to do anything. I feel so terrible. He was my baby and he suffered so much :'( He was only 5 years old. There were so many things we didn't get to do, so much more love to give. 
+
+### November 4, 2018
+#### Getting ready for websummit
+I'm so anxious about going, I almost gave up on going but I know I need to do it for myself. I need to get out of my comfort zone and fight these stupid feelings and self-doubt. 
