@@ -76,9 +76,18 @@
    - [Sort Band Names Without Articles](https://codepen.io/Tubbie/full/djKEpM)
    - Learning the C language and Computer Science basics
       
+# September 2018
+
+   - Continued the #100DaysOfCode round 2 challenge, while working on the CS50 course
+   - Completed freeCodeCamp's basic algorithms and started the Object Oriented Programming challenges  
+  
+# October 2018
+
+   - Done with the C portion of the CS50 course, now learning Python and starting to go into the back end part of web development
+   - Paused round 2 of 100DaysOfCode, so I failed the challenge, my beloved dog died on the 30th of this month. I couldn't think straight and so decided to stop coding for a while.
+   
 # Currently
-  - #100DaysOfCode round 2.
-  - Debugging, Basic Data Structures and Basic Algorithms on FreeCodeCamp
+
   - Doing the Harvard CS50's Introduction to Computer Science on EdX. It's been reccomended to me, and I needed something to get excited about right now, so there we go! I hope it's not too much to be learning intermediate/advanced JS and other languages that will be taught like C and Python at the same time... We'll see, if it's too much I'll pause it and continue focusing on JS.
    
       ### CS50
