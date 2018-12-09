@@ -121,10 +121,10 @@
       - [x] Week 8 : Time for introduction to databases with SQL.
           - **Pset7**: CS50 Finance, a web site where the user can register and log in, consult stocks quotes (real time - using an API) and "buy"/"sell" stocks' shares. This was actually one of my favorite problem sets, really enjoyed the database interaction and learning how the back end of websites is done. 
           
-      - [x] Week 9 : Javascript, Ajax's jQuery. 
+      - [x] Week 9 : Javascript and jQuery's Ajax. 
            - **Pset8**: Using google maps API and asynchronous javascript to make a web app where we can search for locations around the US by city name, state or postal-code or simply by looking around the map and clicking on markers, where a info box pops up with 10 news links (through a google news rss) for that location. This one had a lot of components that were rather complicated, but worth it!
            
-      - [x] Week 10
+      - [x] Week 10 : straight to the lasy one
       - [ ] Week 11 : 
 
 # Next Steps
