@@ -84,7 +84,12 @@
 # October 2018
 
    - Done with the C portion of the CS50 course, now learning Python and starting to go into the back end part of web development
-   - Paused round 2 of 100DaysOfCode, so I failed the challenge, my beloved dog died on the 30th of this month. I couldn't think straight and so decided to stop coding for a while.
+   - Paused round 2 of 100DaysOfCode, so I failed the challenge, stopped coding for a while after my dog passed away...
+
+# November 2018
+
+   - Went to WebSummit in Lisbon at the beginning of the month. I almost didn't go due to personal reasons, but I pushed through and had a great inspiring week out there.
+   - Continued working through the CS50 last problem sets, used Python/Flask & Jinja for developing interactive web apps and also learned the basics of databases with SQL.  
    
 # Currently
 
@@ -113,10 +118,14 @@
       - [x] Week 7 : Python continued. Learned about servers and how to use python and Flask in Web development.
          - **Pset6**: The challenges were to write the same programs that we had written in ealier Psets for C this time in Python. And "similarities" which is also written in python and used to compare two files submited via a web form (html page) using a chosen algorithm: Compare lines, sentences and substrings of n. I found this Pset easier, it was basically just reading python documentation which was really helpful and easy to understand.
          
-      - [ ] Week 8 : in progress
-      - [ ] Week 9
-      - [ ] Week 10
-      - [ ] Week 11
+      - [x] Week 8 : Time for introduction to databases with SQL.
+          - **Pset7**: CS50 Finance, a web site where the user can register and log in, consult stocks quotes (real time - using an API) and "buy"/"sell" stocks' shares. This was actually one of my favorite problem sets, really enjoyed the database interaction and learning how the back end of websites is done. 
+          
+      - [x] Week 9 : Javascript, Ajax's jQuery. 
+           - **Pset8**: Using google maps API and asynchronous javascript to make a web app where we can search for locations around the US by city name, state or postal-code or simply by looking around the map and clicking on markers, where a info box pops up with 10 news links (through a google news rss) for that location. This one had a lot of components that were rather complicated, but worth it!
+           
+      - [x] Week 10
+      - [ ] Week 11 : 
 
 # Next Steps
    - Get Tubbie Arts website live and market it 
