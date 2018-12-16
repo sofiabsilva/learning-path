@@ -124,10 +124,11 @@
       - [x] Week 9 : Javascript and jQuery's Ajax. 
            - **Pset8**: Using google maps API and asynchronous javascript to make a web app where we can search for locations around the US by city name, state or postal-code or simply by looking around the map and clicking on markers, where a info box pops up with 10 news links (through a google news rss) for that location. This one had a lot of components that were rather complicated, but worth it!
            
-      - [x] Week 10 : straight to the lasy one
-      - [ ] Week 11 : 
+      - [x] Week 10 : nothing this week hahah
+      - [ ] Week 11 : Final Project - In progress
+           - I chose to do a chrome extension, learn the rules and design and implement user interfaces, in this case for ["Groove Radio PT"](https://grooveradiopt.com/) my dad's online radio. 
 
 # Next Steps
    - Get Tubbie Arts website live and market it 
-   - Take more advanced Udacity JS courses
    - Complete Front End Dev certification on Free Code Camp
+   - Update protfolio and apply for jobs
