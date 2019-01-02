@@ -91,9 +91,9 @@
    - Went to WebSummit in Lisbon at the beginning of the month. I almost didn't go due to personal reasons, but I pushed through and had a great inspiring week out there.
    - Continued working through the CS50 last problem sets, used Python/Flask & Jinja for developing interactive web apps and also learned the basics of databases with SQL.  
    
-# Currently
+# December 2018
 
-  - Doing the Harvard CS50's Introduction to Computer Science on EdX. It's been reccomended to me, and I needed something to get excited about right now, so there we go! I hope it's not too much to be learning intermediate/advanced JS and other languages that will be taught like C and Python at the same time... We'll see, if it's too much I'll pause it and continue focusing on JS.
+  - Completed the Harvard CS50's Introduction to Computer Science on EdX! It was such a great course/experience. So glad I did it. I have become more comfortable with problem solving, I'm now confident that, even though it might be hard or look impossible at first, I can definitely do it if I don't give up... There's no reason to doubt myself and get super frustrated, just open up a text file and figure out the small steps I'll need to take to get to the bigger ones and so on. It gave me the ability to learn new languages, it's not that hard once you know the basics as they're all pretty similar, I also became more experienced with the command line and git.
    
       ### CS50 progress log
       - [x] Week 0: Loved the first lecture and already got to learn about a bunch of conceps, like what Binary and ASCII are actually.
@@ -128,11 +128,11 @@
       - [x] Week 11 : Final Project - Groove Radio Chrome Extension
            - I chose to do a chrome extension, learn the rules and design and implement user interfaces, in this case for ["Groove Radio PT"](https://grooveradiopt.com/) my dad's online radio. 
            - Here's the [youtube video link](https://youtu.be/2XLHLEMcHtI) where I present it's features.
-           - Working on publishing the extension now.
+           - Currently working on publishing the extension now.
 
 
 # Next Steps
-   - Get Tubbie Arts website live and market it 
    - Learn React
+   - Get Tubbie Arts website live and market it 
    - Complete Front End Dev certification on Free Code Camp
    - Update protfolio and apply for jobs
