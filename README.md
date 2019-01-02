@@ -1,4 +1,4 @@
-# learning-path
+# Learning Path
 :mortar_board: This repo is to keep track of all the courses I've done, and my progress to become a web developer
 
 # November 2017 - February 2018
