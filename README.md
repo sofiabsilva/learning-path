@@ -95,7 +95,7 @@
 
   - Doing the Harvard CS50's Introduction to Computer Science on EdX. It's been reccomended to me, and I needed something to get excited about right now, so there we go! I hope it's not too much to be learning intermediate/advanced JS and other languages that will be taught like C and Python at the same time... We'll see, if it's too much I'll pause it and continue focusing on JS.
    
-      ### CS50
+      ### CS50 progress log
       - [x] Week 0: Loved the first lecture and already got to learn about a bunch of conceps, like what Binary and ASCII are actually.
          - **Pset0**: For the 1st problem set I made this little Harry Potter game (of course) ["Survive the Dementors"](https://scratch.mit.edu/projects/239435007/) using Scratch! I wish I would have found this programming language as a kid...
       
@@ -125,10 +125,14 @@
            - **Pset8**: Using google maps API and asynchronous javascript to make a web app where we can search for locations around the US by city name, state or postal-code or simply by looking around the map and clicking on markers, where a info box pops up with 10 news links (through a google news rss) for that location. This one had a lot of components that were rather complicated, but worth it!
            
       - [x] Week 10 : nothing this week hahah
-      - [ ] Week 11 : Final Project - In progress
+      - [x] Week 11 : Final Project - Groove Radio Chrome Extension
            - I chose to do a chrome extension, learn the rules and design and implement user interfaces, in this case for ["Groove Radio PT"](https://grooveradiopt.com/) my dad's online radio. 
+           - Here's the [youtube video link](https://youtu.be/2XLHLEMcHtI) where I present it's features.
+           - Working on publishing the extension now.
+
 
 # Next Steps
    - Get Tubbie Arts website live and market it 
+   - Learn React
    - Complete Front End Dev certification on Free Code Camp
    - Update protfolio and apply for jobs
