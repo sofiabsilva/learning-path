@@ -96,10 +96,10 @@
   - Completed the Harvard CS50's Introduction to Computer Science on EdX! It was such a great course/experience. So glad I did it. I have become more comfortable with problem solving, I'm now confident that, even though it might be hard or look impossible at first, I can definitely do it if I don't give up... There's no reason to doubt myself and get super frustrated, just open up a text file and figure out the small steps I'll need to take to get to the bigger ones and so on. It gave me the ability to learn new languages, it's not that hard once you know the basics as they're all pretty similar, I also became more experienced with the command line and git.
   - While working on my final project I discovered a cool tool to use when you want to visualise JSON files (specially complex ones): https://beautifier.io/
   
-  ## Projects and Skills aquired
-  - Got more comfortable with using APIs
-  - Learned how to build chrome extensions for my final project.
-  - [Presentation of my Final project: "Groove Radio Chrome Extension](https://youtu.be/2XLHLEMcHtI) and [GitHub repo](https://github.com/sofiabsilva/radio-chrome-extension)
+   ## Projects and Skills aquired
+   - Got more comfortable with using APIs
+   - Learned how to build chrome extensions for my final project.
+   - [Presentation of my final project: "Groove Radio Chrome Extension"](https://youtu.be/2XLHLEMcHtI) and [GitHub repo](https://github.com/sofiabsilva/radio-chrome-extension)
    
       ### CS50 Progress Log
       - [x] Week 0: Loved the first lecture and already got to learn about a bunch of conceps, like what Binary and ASCII are actually.
@@ -134,7 +134,7 @@
       - [x] Week 11 : Final Project - Groove Radio Chrome Extension
            - I chose to do a chrome extension, learn the rules and design and implement user interfaces, in this case for ["Groove Radio PT"](https://grooveradiopt.com/) my dad's online radio. 
            - Here's the [youtube video link](https://youtu.be/2XLHLEMcHtI) where I present the extension's features.
-           - Currently working on publishing the extension now.
+           - Published the extension on the [Chrome Web Store](https://chrome.google.com/webstore/detail/groove-radio-pt/aadficocbpaijelnmdkhjdkfdnikggka?hl=pt-PT).
 
 # Next Steps
    - Learn React
