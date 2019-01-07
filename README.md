@@ -98,7 +98,7 @@
   
    ## Projects and Skills aquired
    - Got more comfortable with using APIs
-   - Learned how to build chrome extensions for my final project.
+   - Learned how to build a chrome extension for my final project.
    - [Presentation of my final project: "Groove Radio Chrome Extension"](https://youtu.be/2XLHLEMcHtI) and [GitHub repo](https://github.com/sofiabsilva/radio-chrome-extension)
    
       ### CS50 Progress Log
