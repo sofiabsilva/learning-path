@@ -136,6 +136,10 @@
            - Here's the [youtube video link](https://youtu.be/2XLHLEMcHtI) where I present the extension's features.
            - Published the extension on the [Chrome Web Store](https://chrome.google.com/webstore/detail/groove-radio-pt/aadficocbpaijelnmdkhjdkfdnikggka?hl=pt-PT).
 
+# Currently
+   - Taking the CS50 Web Programming with Python and Javascript
+   - Continuing with FreeCodeCamp's JS Functional Programming
+   
 # Next Steps
    - Learn React
    - Get Tubbie Arts website live and market it 
