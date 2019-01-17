@@ -101,7 +101,9 @@
    - Learned how to build a chrome extension for my final project.
    - [Presentation of my final project: "Groove Radio Chrome Extension"](https://youtu.be/2XLHLEMcHtI) and [GitHub repo](https://github.com/sofiabsilva/radio-chrome-extension)
    
-      ### CS50 Progress Log
+ ### CS50 Course
+   <details><summary>See Progress Log</h3></summary>
+
       - [x] Week 0: Loved the first lecture and already got to learn about a bunch of conceps, like what Binary and ASCII are actually.
          - **Pset0**: For the 1st problem set I made this little Harry Potter game (of course) ["Survive the Dementors"](https://scratch.mit.edu/projects/239435007/) using Scratch! I wish I would have found this programming language as a kid...
       
@@ -135,6 +137,7 @@
            - I chose to do a chrome extension, learn the rules and design and implement user interfaces, in this case for ["Groove Radio PT"](https://grooveradiopt.com/) my dad's online radio. 
            - Here's the [youtube video link](https://youtu.be/2XLHLEMcHtI) where I present the extension's features.
            - Published the extension on the [Chrome Web Store](https://chrome.google.com/webstore/detail/groove-radio-pt/aadficocbpaijelnmdkhjdkfdnikggka?hl=pt-PT).
+  </details>
 
 # Currently
    - Taking the CS50 Web Programming with Python and Javascript
