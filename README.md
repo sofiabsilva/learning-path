@@ -102,41 +102,42 @@
    - [Presentation of my final project: "Groove Radio Chrome Extension"](https://youtu.be/2XLHLEMcHtI) and [GitHub repo](https://github.com/sofiabsilva/radio-chrome-extension)
    
  ### CS50 Course
-   <details><summary>See Progress Log</h3></summary>
+   <details>
+   <summary>See Progress Log</h3></summary>
+   
+   - [x] Week 0: Loved the first lecture and already got to learn about a bunch of conceps, like what Binary and ASCII are actually.
+      - **Pset0**: For the 1st problem set I made this little Harry Potter game (of course) ["Survive the Dementors"](https://scratch.mit.edu/projects/239435007/) using Scratch! I wish I would have found this programming language as a kid...
 
-      - [x] Week 0: Loved the first lecture and already got to learn about a bunch of conceps, like what Binary and ASCII are actually.
-         - **Pset0**: For the 1st problem set I made this little Harry Potter game (of course) ["Survive the Dementors"](https://scratch.mit.edu/projects/239435007/) using Scratch! I wish I would have found this programming language as a kid...
-      
-      - [x] Week 1: Introduction to C! Also learned about compiling and memory overflow. In the 2nd lecture, there was a lot about arrays and cryptography.
-         - **Pset1**: Some of the Pset1 problems were challenging, specially the last one in which I had to write a program that would get a credit card number input and output if the card is valid and the CC company it belongs to. Very cool stuff! Gimmie more!
-         - **Pset2**: Cryptography problems. pretty cool ones! The most challenging one was to figure out how to crack passwords (I did it but surely not using the best method. Hopefully will learn a better way to do it in future lessons).
-      
-      - [x] Week 2 : Computational Complexibility and algorithms. Recursive functions are a whole new world.
-          - **Pset3**: Learned to read music and write a program that takes machine readable notes to actually make music with code. We had source code for this one, a lot of things to understand before starting to convert the musical notes to frequencies and synthetise the music. This blew my mind a little bit!
-          
-      - [x] Week 3 : Pointers and file pointers, dynamic memory allocation, call stacks, the hexadecimal system, what image files are and how they stay in memory after deletion - Intro to Digital forensics!
-         - **Pset4**: Digital forensics problems and image manipulation.Learned a lot about custom structures and data types and file pointers with this Pset. It was so hard but rewarding. We had to manipulate a BMP image to discover "whodunit" a hidden phrase in a image full of red pixels. Figure out how to resize an image and recover deleted jpgs from a memory card. 
-         
-      - [x] Week 4 : How to work with huge ammounts of data - Hashtables (with linked lists), Tries. More on data structures, custom types, stacks and queues. 
-         - **Pset5**: Spell checking, using memory allocated dictionary (implementing a load() function), checking whether the words in a text exist in that dictionary, and do it fast! Then unloading the dictionary from memory (and avoiding memory leaks). This one was so hard! Took me a long time to understand how a hashtable, an array of linked lists worked, coding wise. I was understanding the theory but couldn't put it into code correctly when implementing the load() function. I had some help from reddit, a few clues made me rethink my reasoning and finally - no more memory problems.
-         
-      - [x] Week 5 : Starting to go into the internet world! Internet Primer, IP addressess,  TCP, HTTP and Web development intro.
-      - [x] Week 6 : A different professor (from Yale this time) taught Dynamic Programming and Network routing. This lecture was a bit hard on my brain but looked up some outside material to understand the dynamic programming concepts a little bit better. The second half of week 6 was the Python Basics class.
-      
-      - [x] Week 7 : Python continued. Learned about servers and how to use python and Flask in Web development.
-         - **Pset6**: The challenges were to write the same programs that we had written in ealier Psets for C this time in Python. And "similarities" which is also written in python and used to compare two files submited via a web form (html page) using a chosen algorithm: Compare lines, sentences and substrings of n. I found this Pset easier, it was basically just reading python documentation which was really helpful and easy to understand.
-         
-      - [x] Week 8 : Time for introduction to databases with SQL.
-          - **Pset7**: CS50 Finance, a web site where the user can register and log in, consult stocks quotes (real time - using an API) and "buy"/"sell" stocks' shares. This was actually one of my favorite problem sets, really enjoyed the database interaction and learning how the back end of websites is done. 
-          
-      - [x] Week 9 : Javascript and jQuery's Ajax. 
-           - **Pset8**: Using google maps API and asynchronous javascript to make a web app where we can search for locations around the US by city name, state or postal-code or simply by looking around the map and clicking on markers, where a info box pops up with 10 news links (through a google news rss) for that location. This one had a lot of components that were rather complicated, but worth it!
-           
-      - [x] Week 10 : nothing this week hahah
-      - [x] Week 11 : Final Project - Groove Radio Chrome Extension
-           - I chose to do a chrome extension, learn the rules and design and implement user interfaces, in this case for ["Groove Radio PT"](https://grooveradiopt.com/) my dad's online radio. 
-           - Here's the [youtube video link](https://youtu.be/2XLHLEMcHtI) where I present the extension's features.
-           - Published the extension on the [Chrome Web Store](https://chrome.google.com/webstore/detail/groove-radio-pt/aadficocbpaijelnmdkhjdkfdnikggka?hl=pt-PT).
+   - [x] Week 1: Introduction to C! Also learned about compiling and memory overflow. In the 2nd lecture, there was a lot about arrays and cryptography.
+      - **Pset1**: Some of the Pset1 problems were challenging, specially the last one in which I had to write a program that would get a credit card number input and output if the card is valid and the CC company it belongs to. Very cool stuff! Gimmie more!
+      - **Pset2**: Cryptography problems. pretty cool ones! The most challenging one was to figure out how to crack passwords (I did it but surely not using the best method. Hopefully will learn a better way to do it in future lessons).
+
+   - [x] Week 2 : Computational Complexibility and algorithms. Recursive functions are a whole new world.
+       - **Pset3**: Learned to read music and write a program that takes machine readable notes to actually make music with code. We had source code for this one, a lot of things to understand before starting to convert the musical notes to frequencies and synthetise the music. This blew my mind a little bit!
+
+   - [x] Week 3 : Pointers and file pointers, dynamic memory allocation, call stacks, the hexadecimal system, what image files are and how they stay in memory after deletion - Intro to Digital forensics!
+      - **Pset4**: Digital forensics problems and image manipulation.Learned a lot about custom structures and data types and file pointers with this Pset. It was so hard but rewarding. We had to manipulate a BMP image to discover "whodunit" a hidden phrase in a image full of red pixels. Figure out how to resize an image and recover deleted jpgs from a memory card. 
+
+   - [x] Week 4 : How to work with huge ammounts of data - Hashtables (with linked lists), Tries. More on data structures, custom types, stacks and queues. 
+      - **Pset5**: Spell checking, using memory allocated dictionary (implementing a load() function), checking whether the words in a text exist in that dictionary, and do it fast! Then unloading the dictionary from memory (and avoiding memory leaks). This one was so hard! Took me a long time to understand how a hashtable, an array of linked lists worked, coding wise. I was understanding the theory but couldn't put it into code correctly when implementing the load() function. I had some help from reddit, a few clues made me rethink my reasoning and finally - no more memory problems.
+
+   - [x] Week 5 : Starting to go into the internet world! Internet Primer, IP addressess,  TCP, HTTP and Web development intro.
+   - [x] Week 6 : A different professor (from Yale this time) taught Dynamic Programming and Network routing. This lecture was a bit hard on my brain but looked up some outside material to understand the dynamic programming concepts a little bit better. The second half of week 6 was the Python Basics class.
+
+   - [x] Week 7 : Python continued. Learned about servers and how to use python and Flask in Web development.
+      - **Pset6**: The challenges were to write the same programs that we had written in ealier Psets for C this time in Python. And "similarities" which is also written in python and used to compare two files submited via a web form (html page) using a chosen algorithm: Compare lines, sentences and substrings of n. I found this Pset easier, it was basically just reading python documentation which was really helpful and easy to understand.
+
+   - [x] Week 8 : Time for introduction to databases with SQL.
+       - **Pset7**: CS50 Finance, a web site where the user can register and log in, consult stocks quotes (real time - using an API) and "buy"/"sell" stocks' shares. This was actually one of my favorite problem sets, really enjoyed the database interaction and learning how the back end of websites is done. 
+
+   - [x] Week 9 : Javascript and jQuery's Ajax. 
+        - **Pset8**: Using google maps API and asynchronous javascript to make a web app where we can search for locations around the US by city name, state or postal-code or simply by looking around the map and clicking on markers, where a info box pops up with 10 news links (through a google news rss) for that location. This one had a lot of components that were rather complicated, but worth it!
+
+   - [x] Week 10 : nothing this week hahah
+   - [x] Week 11 : Final Project - Groove Radio Chrome Extension
+        - I chose to do a chrome extension, learn the rules and design and implement user interfaces, in this case for ["Groove Radio PT"](https://grooveradiopt.com/) my dad's online radio. 
+        - Here's the [youtube video link](https://youtu.be/2XLHLEMcHtI) where I present the extension's features.
+        - Published the extension on the [Chrome Web Store](https://chrome.google.com/webstore/detail/groove-radio-pt/aadficocbpaijelnmdkhjdkfdnikggka?hl=pt-PT).
   </details>
 
 # Currently
