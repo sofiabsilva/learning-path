@@ -141,11 +141,11 @@
   </details>
 
 # Currently
-   - Taking the CS50 Web Programming with Python and Javascript
+   - Taking the "CS50 Web Programming with Python and Javascript" course
    - Continuing with FreeCodeCamp's JS Functional Programming
-   
+
 # Next Steps
    - Learn React
-   - Get Tubbie Arts website live and market it 
    - Complete Front End Dev certification on Free Code Camp
    - Update protfolio and apply for jobs
+   - Start contributing to open source and collaborate with other programmers
