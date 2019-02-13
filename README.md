@@ -140,12 +140,21 @@
         - Published the extension on the [Chrome Web Store](https://chrome.google.com/webstore/detail/groove-radio-pt/aadficocbpaijelnmdkhjdkfdnikggka?hl=pt-PT).
   </details>
 
+# January 2019
+
+   - Got the CS50 [certificate](https://courses.edx.org/certificates/868a263b985d42fdb8c3fff12e46b879)
+   - Started taking the "CS50 Web Programming with Python and Javascript" course
+   
+   ## Projects and Skills aquired
+   - Learned to use SASS 
+   - Rebuilt [Grooveradio.NET](https://grooveradio.net/) - made it responsive, and compatible with most browsers.
+   
 # Currently
    - Taking the "CS50 Web Programming with Python and Javascript" course
    - Continuing with FreeCodeCamp's JS Functional Programming
 
 # Next Steps
    - Learn React
-   - Complete Front End Dev certification on Free Code Camp
+   - Complete Front End Dev certification on FreeCodeCamp
    - Update protfolio and apply for jobs
    - Start contributing to open source and collaborate with other programmers
