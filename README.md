@@ -148,7 +148,14 @@
    ## Projects and Skills aquired
    - Learned to use SASS 
    - Rebuilt [Grooveradio.NET](https://grooveradio.net/) - made it responsive, and compatible with most browsers.
+
+# February 2019
+
+   - Continued the "CS50 Web Programming with Python and Javascript" course
    
+   ## Projects and Skills aquired
+   - Continued working on my tubbiearts.com gallery website, changed some of the design, now using flask with the jinja2 templates, instead of hard coding every html page.
+
 # Currently
    - Taking the "CS50 Web Programming with Python and Javascript" course
    - Continuing with FreeCodeCamp's JS Functional Programming
