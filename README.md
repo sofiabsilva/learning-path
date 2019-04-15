@@ -156,6 +156,15 @@
    ## Projects and Skills aquired
    - Continued working on my tubbiearts.com gallery website, changed some of the design, now using flask with the jinja2 templates, instead of hard coding every html page.
 
+# March 2019
+
+   - Continued the "CS50 Web Programming with Python and Javascript" course
+   
+   ## Projects and Skills aquired
+   - Learned PostgresSQL, how to implement databases with Object-Oriented Programming principles (Object Relational Mapping)
+   - Using and creating API's
+   - Built [Bookish Reviews](https://bookishreviews.herokuapp.com/), as project 1 for CS50W course.
+   
 # Currently
    - Taking the "CS50 Web Programming with Python and Javascript" course
    - Continuing with FreeCodeCamp's JS Functional Programming
