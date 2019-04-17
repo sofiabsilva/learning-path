@@ -163,7 +163,8 @@
    ## Projects and Skills aquired
    - Learned PostgresSQL, how to implement databases with Object-Oriented Programming principles (Object Relational Mapping)
    - Using and creating API's
-   - Built [Bookish Reviews](https://bookishreviews.herokuapp.com/), as project 1 for CS50W course.
+   - Built [Bookish Reviews](https://bookishreviews.herokuapp.com/), as project 1 for CS50W course
+   - Participated in "CS50x Puzzle Day 2019" and solved all 11 puzzles! [Certicate here](https://cs50.harvard.edu/certificates/9b957586-3f97-412b-9fbf-9d7c0cc9034e)
    
 # Currently
    - Taking the "CS50 Web Programming with Python and Javascript" course
