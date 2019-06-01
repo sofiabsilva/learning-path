@@ -166,9 +166,17 @@
    - Built [Bookish Reviews](https://bookishreviews.herokuapp.com/), as project 1 for CS50W course
    - Participated in "CS50x Puzzle Day 2019" and solved all 11 puzzles! [Certicate here](https://cs50.harvard.edu/certificates/9b957586-3f97-412b-9fbf-9d7c0cc9034e)
    
+# April 2019   
+
+   -  Finalised my gallery website/online store and finally launched it! [Tubbie Arts Website](https://github.com/sofiabsilva/tubbie-arts-website)
+   - Took break from CS50Web amd started working on a project for a non-profit (more info later on)! 
+
+# May 2019   
+   - Learned PHP and wordpress basics
+   - Building website for non-profit!
+   
 # Currently
-   - Taking the "CS50 Web Programming with Python and Javascript" course
-   - Continuing with FreeCodeCamp's JS Functional Programming
+   Working in volunteer capacity for a non-profit. 
 
 # Next Steps
    - Learn React
@@ -176,7 +184,4 @@
    - Update protfolio and apply for jobs
    - Start contributing to open source and collaborate with other programmers
 
-# April 2019
 
--  Finalised my gallery website/online store and finally launched it! [Tubbie Arts Website](https://github.com/sofiabsilva/tubbie-arts-website)
-- Started working on a project for a non-profit! 
