@@ -175,3 +175,8 @@
    - Complete Front End Dev certification on FreeCodeCamp
    - Update protfolio and apply for jobs
    - Start contributing to open source and collaborate with other programmers
+
+# April 2019
+
+-  Finalised my gallery website/online store and finally launched it! [Tubbie Arts Website](https://github.com/sofiabsilva/tubbie-arts-website)
+- Started working on a project for a non-profit! 
