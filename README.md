@@ -163,17 +163,19 @@
    ## Projects and Skills aquired
    - Learned PostgresSQL, how to implement databases with Object-Oriented Programming principles (Object Relational Mapping)
    - Using and creating API's
+   - Learned to use the Bulma library.
    - Built [Bookish Reviews](https://bookishreviews.herokuapp.com/), as project 1 for CS50W course
    - Participated in "CS50x Puzzle Day 2019" and solved all 11 puzzles! [Certicate here](https://cs50.harvard.edu/certificates/9b957586-3f97-412b-9fbf-9d7c0cc9034e)
    
 # April 2019   
-
+   - Participated in "CS50x Puzzle Day 2019" and solved all 11 puzzles! [Certicate here](https://cs50.harvard.edu/certificates/9b957586-3f97-412b-9fbf-9d7c0cc9034e)
    -  Finalised my gallery website/online store and finally launched it! [Tubbie Arts Website](https://github.com/sofiabsilva/tubbie-arts-website)
    - Took break from CS50Web amd started working on a project for a non-profit (more info later on)! 
 
-# May 2019   
-   - Learned PHP and wordpress basics
-   - Building website for non-profit!
+# May and June 2019   
+   - Learned PHP basicas
+   - Learned to work with wordpress
+   - Building website (wordpress child theme) for non-profit!
    
 # Currently
    Working in volunteer capacity for a non-profit. 
