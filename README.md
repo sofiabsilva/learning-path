@@ -163,7 +163,7 @@
    ## Projects and Skills aquired
    - Learned PostgresSQL, how to implement databases with Object-Oriented Programming principles (Object Relational Mapping)
    - Using and creating API's
-   - Learned to use the Bulma library.
+   - Learned to use the Bulma UI framework (I would recommend it if it wasn't for the lack of search hability in their docs).
    - Built [Bookish Reviews](https://bookishreviews.herokuapp.com/), as project 1 for CS50W course
    - Participated in "CS50x Puzzle Day 2019" and solved all 11 puzzles! [Certicate here](https://cs50.harvard.edu/certificates/9b957586-3f97-412b-9fbf-9d7c0cc9034e)
    
@@ -179,9 +179,10 @@
    
 # Currently
    Working in volunteer capacity for a non-profit. 
+   Building a website for a company.
 
 # Next Steps
-   - Learn React
+   - Learn React or other front-end framework
    - Complete Front End Dev certification on FreeCodeCamp
    - Update protfolio and apply for jobs
    - Start contributing to open source and collaborate with other programmers
