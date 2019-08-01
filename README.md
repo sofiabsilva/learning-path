@@ -174,12 +174,18 @@
 
 # May and June 2019   
    - Learned PHP basicas
-   - Learned to work with wordpress
+   - Learned to work with wordpress themes and backoffice.
+   - Started using SVGs
    - Building website (wordpress child theme) for non-profit!
+# July 2019 
+   - Built static page for [ateliersueste.com](https://ateliersueste.com)
+   - Changed my portfolio design a bit, using svg background now, from [heropatterns.com]((https://www.heropatterns.com)
+   - Learned more about SEO and optimised my websites
+   - Finished the functional programming part of freecodecamp and started solving the intermediate algorithm challenges. 
    
 # Currently
    Working in volunteer capacity for a non-profit. 
-   Building a website for a company.
+   Solving intermediate freecodecamp algorithms
 
 # Next Steps
    - Learn React or other front-end framework
