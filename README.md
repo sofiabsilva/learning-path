@@ -2,7 +2,7 @@
 :mortar_board: This repo is to keep track of all the courses I've done, and my progress to become a web developer
 
 # November 2017 - February 2018
-- Started the Google Challenge Scholership - Front-End track on Udacity. I had no previous programming knowledge, applied to the scholarship after receiving an e-mail by Google recommending it, at this time I was thinking of making a website to display my artwork so I figured, why not? During the duration of the course, I fell in love with programming and now plan to make it career.
+- Started the Google Challenge Scholership - Front-End track on Udacity. I had no previous programming knowledge, applied to the scholarship after receiving an e-mail by Google recommending it, at this time I was thinking of making a website to display my artwork so I figured, why not? During the duration of the course, I fell in love with programming and now plan to make it my career.
 
    ## Projects and Skills aquired
    - HTML - [Mockup Article project](https://sofiabsilva.github.io/html-mockup-article/)
@@ -190,7 +190,6 @@
 # Next Steps
    - Learn React or other front-end framework
    - Complete Front End Dev certification on FreeCodeCamp
-   - Update protfolio and apply for jobs
    - Start contributing to open source and collaborate with other programmers
 
 
