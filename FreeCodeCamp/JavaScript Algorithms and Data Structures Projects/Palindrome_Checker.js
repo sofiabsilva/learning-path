@@ -13,10 +13,10 @@ function palindrome(str) {
   // convert string to array, reverse it and compare the two resulting strings
 
   var arr = transStr.split(''); 
-  var normal = arr.toString()
-  var reversed = arr.reverse().toString();
-  
-  if (reversed == normal) {
+
+  var reversed = arr.reverse().join('');
+ 
+  if (reversed == transStr) {
     return true;
   } else {
     return false;
