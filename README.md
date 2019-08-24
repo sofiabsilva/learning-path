@@ -168,28 +168,33 @@
    - Participated in "CS50x Puzzle Day 2019" and solved all 11 puzzles! [Certicate here](https://cs50.harvard.edu/certificates/9b957586-3f97-412b-9fbf-9d7c0cc9034e)
    
 # April 2019   
+
    - Participated in "CS50x Puzzle Day 2019" and solved all 11 puzzles! [Certicate here](https://cs50.harvard.edu/certificates/9b957586-3f97-412b-9fbf-9d7c0cc9034e)
    -  Finalised my gallery website/online store and finally launched it! [Tubbie Arts Website](https://github.com/sofiabsilva/tubbie-arts-website)
    - Took break from CS50Web amd started working on a project for a non-profit (more info later on)! 
 
 # May and June 2019   
+
    - Learned PHP basicas
    - Learned to work with wordpress themes and backoffice.
    - Started using SVGs
    - Building website (wordpress child theme) for non-profit!
+   
 # July 2019 
+
    - Built static page for [ateliersueste.com](https://ateliersueste.com)
    - Changed my portfolio design a bit, using svg background now, from [heropatterns.com]((https://www.heropatterns.com)
    - Learned more about SEO and optimised my websites
-   - Finished the functional programming part of freecodecamp and started solving the intermediate algorithm challenges. 
+   - Finished the functional programming part of freecodecamp and started solving the intermediate algorithm challenges.
+   
+# August 2019
+   - Solved all of freeCodeCamp's intermediate algorithm challenges. 
+   - Finished the FreeCodeCamp JavaScript Algorithms and Data Structures Projects part. Certificate [here](https://www.freecodecamp.org/certification/sofiabsilva/javascript-algorithms-and-data-structures).
    
 # Currently
    Working in volunteer capacity for a non-profit. 
-   Solving intermediate freecodecamp algorithms
 
 # Next Steps
    - Learn React or other front-end framework
    - Complete Front End Dev certification on FreeCodeCamp
    - Start contributing to open source and collaborate with other programmers
-
-
