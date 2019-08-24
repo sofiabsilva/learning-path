@@ -165,11 +165,11 @@
    - Using and creating API's
    - Learned to use the Bulma UI framework (I would recommend it if it wasn't for the lack of search hability in their docs).
    - Built [Bookish Reviews](https://bookishreviews.herokuapp.com/), as project 1 for CS50W course
-   - Participated in "CS50x Puzzle Day 2019" and solved all 11 puzzles! [Certicate here](https://cs50.harvard.edu/certificates/9b957586-3f97-412b-9fbf-9d7c0cc9034e)
+   - Participated in "CS50x Puzzle Day 2019" and solved all 11 puzzles! [Certificate here](https://cs50.harvard.edu/certificates/9b957586-3f97-412b-9fbf-9d7c0cc9034e)
    
 # April 2019   
 
-   - Participated in "CS50x Puzzle Day 2019" and solved all 11 puzzles! [Certicate here](https://cs50.harvard.edu/certificates/9b957586-3f97-412b-9fbf-9d7c0cc9034e)
+   - Participated in "CS50x Puzzle Day 2019" and solved all 11 puzzles! [Certificate here](https://cs50.harvard.edu/certificates/9b957586-3f97-412b-9fbf-9d7c0cc9034e)
    -  Finalised my gallery website/online store and finally launched it! [Tubbie Arts Website](https://github.com/sofiabsilva/tubbie-arts-website)
    - Took break from CS50Web amd started working on a project for a non-profit (more info later on)! 
 
