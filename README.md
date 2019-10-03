@@ -191,10 +191,15 @@
    - Solved all of freeCodeCamp's intermediate algorithm challenges. 
    - Finished the FreeCodeCamp JavaScript Algorithms and Data Structures Projects part. Certificate [here](https://www.freecodecamp.org/certification/sofiabsilva/javascript-algorithms-and-data-structures).
    
+# September 2019
+   - Started Learning Vue JS. 
+   - Continued working on wordpress skills while developing a website for non-profit 
+
 # Currently
    Working in volunteer capacity for a non-profit. 
+   Freelancing - developing custom wordpress sites
 
 # Next Steps
-   - Learn React or other front-end framework
+   - Learn Vue
    - Complete Front End Dev certification on FreeCodeCamp
    - Start contributing to open source and collaborate with other programmers
