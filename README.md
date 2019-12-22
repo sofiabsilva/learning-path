@@ -199,6 +199,7 @@
    - Continued Learning Vue JS. 
    - Practicing typing skill (I was only typing with 2 fingers basically, it was embarassing)
    - Freelanced some more, developing custom wordpress sites.
+   - Helped non-profit to put together a site for an event (just used Elementor and a bit of custom css) https://vegbusiness.avp.org.pt/. 
    
 # Currently
    - Continued Learning Vue.js and practicing typing.
