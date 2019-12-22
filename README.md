@@ -194,12 +194,18 @@
 # September 2019
    - Started Learning Vue JS. 
    - Continued working on wordpress skills while developing a website for non-profit 
-
+   
+# October & November 2019
+   - Continued Learning Vue JS. 
+   - Practicing typing skill (I was only typing with 2 fingers basically, it was embarassing)
+   - Freelanced some more, developing custom wordpress sites.
+   
 # Currently
-   Working in volunteer capacity for a non-profit. 
-   Freelancing - developing custom wordpress sites
+   - Continued Learning Vue.js and practicing typing.
+   - Working in volunteer capacity for a non-profit. 
+   - Freelancing - Helping managing wordpress sites.
 
 # Next Steps
-   - Learn Vue
    - Complete Front End Dev certification on FreeCodeCamp
+   - Continue learning and practicing Django.
    - Start contributing to open source and collaborate with other programmers
